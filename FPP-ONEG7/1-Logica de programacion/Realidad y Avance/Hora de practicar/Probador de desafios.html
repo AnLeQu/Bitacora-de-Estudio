@@ -1,0 +1,28 @@
+<!--Esta es la idea pero el codigo un no sirve, usar por mintras el de cada desafio a mano-->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Elegir Script JavaScript</title>
+</head>
+<body>
+    <h2>Elige un script para ejecutar:</h2>
+    <select id="scriptSelector">
+        <option value="Desafios #2/D2-1.js">Script D2-1</option>
+        <option value="Desafios #2/D2-2.js">Script D2-2</option>
+        <option value="Desafios #2/D2-3.js">Script D2-3</option>
+        <option value="Desafios #2/D2-4.js">Script D2-4</option>
+        <option value="Desafios #2/D2-5.js">Script D2-5</option>
+    </select>
+    <button onclick="ejecutarScript()">Ejecutar Script</button>
+
+    <script>
+        function ejecutarScript() {
+            var seleccion = document.getElementById("scriptSelector").value;
+            var script = document.createElement('script');
+            script.src = seleccion;
+            document.body.appendChild(script);
+        }
+    </script>
+</body>
+</html>
