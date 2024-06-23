@@ -1,1 +1,2 @@
-//Crea una variable llamada edady asígnale el valor 25.
+//Crea una variable llamada edad y asígnale el valor 25.
+let edad = 25
