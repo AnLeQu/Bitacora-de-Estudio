@@ -8,4 +8,4 @@ console.log(Edad)
 if (edaddecompr == edad)
     {alert(Mensajemayor)}
 else 
-    {alert(mensajemenor})
+    {alert(mensajemenor)}
