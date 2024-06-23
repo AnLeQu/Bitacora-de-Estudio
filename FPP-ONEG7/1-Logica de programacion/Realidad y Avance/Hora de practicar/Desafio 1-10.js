@@ -5,6 +5,7 @@ let edad = 18;
 let edaddecompr = prompt("Queremos confirmar tu edad para saber si puedes tener esta licencia. Edad:");
 console.log(Edad)
 
-if (edaddecompr >= edad)
+if (edaddecompr == edad)
     alert(Mensajemayor)
-else alert(mensajemenor)
+else 
+    alert(mensajemenor)
