@@ -2,5 +2,5 @@
 
 //Variables
 let N = 1000000;
-let tusaldo = "El saldo de tu cuenta es de: " + Math.floor(Math.random() * N);
-alert(tusaldo)
+let tusaldo = Math.floor(Math.random() * N);
+alert("El saldo de tu cuenta es de ${tusaldo}.")
