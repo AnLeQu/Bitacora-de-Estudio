@@ -3,4 +3,4 @@
 //Variables
 let N = 1000000;
 let tusaldo = Math.floor(Math.random() * N);
-alert("El saldo de tu cuenta es de " + tusaldo)
+alert("El saldo de tu cuenta es de " + tusaldo);

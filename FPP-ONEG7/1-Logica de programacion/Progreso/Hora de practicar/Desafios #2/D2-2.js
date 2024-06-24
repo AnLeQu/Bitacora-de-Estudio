@@ -7,13 +7,13 @@ console.log(NumIn);
 //Verificación
 if (NumIn > Num)
     {
-        alert("Este es un numero positivo")
+        alert("Este es un numero positivo");
     }
 else if (NumIn < Num)
     {
-        alert("Este es un número negativo")
+        alert("Este es un número negativo");
     }
 else (NumIn == Num)
     {
-        alert("Este número es el cero")
+        alert("Este número es el cero");
     }

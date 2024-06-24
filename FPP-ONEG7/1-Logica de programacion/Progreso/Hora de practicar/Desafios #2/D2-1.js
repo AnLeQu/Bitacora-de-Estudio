@@ -3,15 +3,15 @@ Si la respuesta es "Sábado" o "Domingo", muestra
 "¡Buen fin de semana!". De lo contrario, muestra 
 "¡Buena semana!".*/
 
-let Dia = prompt ("¿Qué día de la semana es hoy?")
+let Dia = prompt ("¿Qué día de la semana es hoy?");
 
-console.log(Dia)
+console.log(Dia);
 
 if (Dia == "Sabado" || "Domingo")
     {
-        alert("¡Buen fin de semana!")
+        alert("¡Buen fin de semana!");
     }
 else
     {
-        alert("¡Buena semana!")
+        alert("¡Buena semana!");
     }
