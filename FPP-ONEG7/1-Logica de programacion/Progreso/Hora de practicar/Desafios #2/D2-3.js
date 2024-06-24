@@ -10,7 +10,7 @@ console.log(ScoreRandomNumber);  // Número aleatorio entero entre 0 y 149 (incl
 
 if (ScoreRandomNumber === SPJ || ScoreRandomNumber > SPJ)
     {
-        alert("¡Felicidades, has ganado!");
+        alert("¡Felicidades, has ganado! Tu puntaje fue de: " + ScoreRandomNumber);
     }
 else (ScoreRandomNumber < SPJ)
     {
