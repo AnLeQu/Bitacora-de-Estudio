@@ -7,11 +7,7 @@ let Dia = prompt ("¿Qué día de la semana es hoy?")
 
 console.log(Dia)
 
-if (Dia == "Sabado")
-    {
-        alert("¡Buen fin de semana!")
-    }
-else if (Dia == "Domingo")
+if (Dia == "Sabado" || "Domingo")
     {
         alert("¡Buen fin de semana!")
     }
