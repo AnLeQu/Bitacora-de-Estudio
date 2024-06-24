@@ -1,3 +1,6 @@
+/*El consoole.log es un codigo que guarda/imprime la variable escrita en la consola del entorno de desarrollo, 
+lo que permite probar información relevante durante la ejecución de un programa.*/
+
 alert('Bienvenido al juego del número secreto');
 
 // Agrega un console.log para verificar el valor de "intento" después de la entrada del usuario
