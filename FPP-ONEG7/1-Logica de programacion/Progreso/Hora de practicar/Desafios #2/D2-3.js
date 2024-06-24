@@ -5,12 +5,12 @@
 
 let SPJ = 100;
 let N = 150;
-let ScoreRandomNumber = Math.random() * N;
-console.log(ScoreRandomNumber);  // Puede ser cualquier número entre 0 y 10 (sin incluir 10)
+let ScoreRandomNumber = Math.floor(Math.random() * N);
+console.log(ScoreRandomNumber);  // Número aleatorio entero entre 0 y 149 (incluyendo ambos)
 
-if (ScoreRandomNumber = SPJ || ScoreRandomNumber > SPJ)
+if (ScoreRandomNumber === SPJ || ScoreRandomNumber > SPJ)
     {
-        console.log("¡Felicidades, has ganado!");
+        alert("¡Felicidades, has ganado!");
     }
 else (ScoreRandomNumber < SPJ)
     {
