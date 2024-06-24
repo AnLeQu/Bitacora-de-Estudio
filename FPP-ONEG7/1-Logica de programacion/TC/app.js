@@ -1,8 +1,22 @@
-let numeroSecreto = 6;
-let numeroUsuario = prompt("Me indicas un n�mero por favor:");
+// let numeroSecreto = parseInt(Math.random() * 11)
+// let tentativas = 1
+// let chute
 
-console.log(numeroUsuario);
+// alert('Boas vindas ao jogo do número secreto')
 
-if (numeroUsuario == numeroSecreto) {
-    alert('Acertaste el n�mero');
-}
+// while (chute != numeroSecreto) {
+//     let chute = prompt('Escolha um número entre 1 e 10')
+//     if (chute == numeroSecreto) {
+//         break
+//     } else {
+//         if (chute > numeroSecreto) {
+//             alert('O número secreto é menor')
+//         } else {
+//             alert('O número secreto é maior')
+//         }
+//     }
+//     tentativas++
+// }
+
+// let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa' 
+// alert(`O número secreto era ${numeroSecreto} e você acertou com apenas ${tentativas} ${palavraTentativa}`)
