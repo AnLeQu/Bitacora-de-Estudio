@@ -24,7 +24,7 @@ ejecución de un programa.*/
 console.log(NumeroDeUsuario);
 
 //Este codigo realiza la comparación
-while (NumeroDeUsuario != NumeroSecreto && intentos < 3)
+while (NumeroDeUsuario != NumeroSecreto)
     {
         //Esta condicon es para cuando se gane.
         if (intentos === 1)
