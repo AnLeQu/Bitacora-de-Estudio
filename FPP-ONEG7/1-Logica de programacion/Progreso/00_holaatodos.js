@@ -27,7 +27,7 @@ console.log(NumeroDeUsuario);
 while (NumeroDeUsuario != NumeroSecreto)
     {
         //Esta condicon es para cuando se gane.
-        if (intentos = 1)
+        if (intentos === 1)
             {
                 palabraIntento = "primer intento";
             }
@@ -50,7 +50,7 @@ while (NumeroDeUsuario != NumeroSecreto)
                 entró entre los límites establecidos. 
                 Por lo tanto es verdadera, o mejor 
                 dicho acertamos el número.*/
-                alert("Sorprendente, lo acertaste en el " + palabraIntento);
+                alert("¡¡¡Sorprendente, lo acertaste en el " + palabraIntento + "!!!");
             }
         else
             {
