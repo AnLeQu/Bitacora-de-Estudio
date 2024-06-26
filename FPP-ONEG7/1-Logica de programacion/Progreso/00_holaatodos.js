@@ -5,14 +5,14 @@ del Hello World, o Hola mundo en español*/
 /*El codigo alert imprime de forma visible 
 como a modo de alerta en una pequeña ventana
 los parametros o las variables que uno le pida
-Ejemplo: (Solo visible desde el archivo html)
-alert ("¡¡Hola a todos!!") */
+Ejemplo: (Solo visible desde el archivo html)*/
+alert ("¡¡Hola a todos!!") 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //Variables
 let NMaxPosible = prompt("Elija una cantiadad de numeros con las que jugaras:")
-let NumeroSecreto = Math.floor(Math.random()*(`${NMaxPosible}`)+1); //6
+let NumeroSecreto = Math.floor(Math.random()*(`${NMaxPosible}`)+1); //
 let NumeroDeUsuario = 0;
 let intentos = 1;
 //let palabraIntento = "(x) intento o intento (x)"
