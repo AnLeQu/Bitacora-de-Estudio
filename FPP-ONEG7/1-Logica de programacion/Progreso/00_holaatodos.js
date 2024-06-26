@@ -11,11 +11,12 @@ alert ("¡¡Hola a todos!!") */
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //Variables
-let NumeroSecreto = Math.floor(Math.random()*(10)+1); //6
+let NMaxPosible = prompt("Elija una cantiadad de numeros con las que jugaras:")
+let NumeroSecreto = Math.floor(Math.random()*(`${NMaxPosible}`)+1); //6
 let NumeroDeUsuario = 0;
 let intentos = 1;
 //let palabraIntento = "(x) intento o intento (x)"
-let MaxIntentos = 3
+let MaxIntentos = Math.floor(3 * (NMaxPosible/10)) 
 
 /*Este codigo guarda/imprime la variable 
 escrita en NombreDeUsuario en la consola 
@@ -40,7 +41,7 @@ while (NumeroDeUsuario != NumeroSecreto)
         `${intentos == 1 ? 'primer intento' : 'intento número '+intentos}`
         esto es una version simplificada de if y else*/
 
-        NumeroDeUsuario = parseInt (prompt ("Me podrias indicar un numero entre 1 y 10, por favor:")); 
+        NumeroDeUsuario = parseInt (prompt ("Me podrias indicar un numero entre 1 y " + `${NMaxPosible}` + ", por favor:")); 
         /* Cómo habiamos puesto 0, o mejor dicho que 
         la variable no tenia valor, para que lo tenga 
         ahora se llama la variable para que el usuario 
