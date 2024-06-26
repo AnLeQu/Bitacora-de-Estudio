@@ -24,7 +24,7 @@ ejecución de un programa.*/
 console.log(NumeroDeUsuario);
 
 //Este codigo realiza la comparación
-while (NumeroDeUsuario != NumeroSecreto)
+while (NumeroDeUsuario != NumeroSecreto && intentos < 3)
     {
         //Esta condicon es para cuando se gane.
         if (intentos === 1)
@@ -71,6 +71,11 @@ while (NumeroDeUsuario != NumeroSecreto)
                     
                 intentos = intentos +1;
                 //Incrementamos el contador cuando no se acierta
+            }
+        if (intentos > 3)
+            {
+                alert("Llegaste al número maximo de intentos")
+                break
             }
     }
 
