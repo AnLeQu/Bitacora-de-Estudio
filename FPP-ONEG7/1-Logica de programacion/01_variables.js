@@ -8,3 +8,5 @@ valor guardado en esa caja o usarlo en cálculos.
 Ejemplo:*/
 let edad = 10; 
 // Aquí "edad" es la variable que guarda el valor 10
+
+//Son como nombres que guardan valores

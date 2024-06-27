@@ -1,4 +1,0 @@
-//Math.random
-
-//Math.floor
-
