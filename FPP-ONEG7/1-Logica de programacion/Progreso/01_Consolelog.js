@@ -15,7 +15,8 @@ console.log('Resultado de la comparación:', intento == numeroSecreto);
 if (intento == numeroSecreto) 
     {
     alert('Adivinaste');
-    } 
+    }
+
 else 
     {
     // Agrega un console.log para verificar el valor de "numeroSecreto" cuando el jugador se equivoca
