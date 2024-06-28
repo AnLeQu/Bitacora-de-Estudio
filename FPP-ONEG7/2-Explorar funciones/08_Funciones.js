@@ -1,6 +1,6 @@
 /*funciones: Son líneas de código que se utilizan 
 repetidas veces y para optimizar código.
-Una función en JavaScript es como una máquina pequeña 
+En JavaScript es como una máquina pequeña 
 que toma ciertas entradas (llamadas parámetros) y 
 realiza una acción específica con ellas. Puedes pensar 
 en una función como una receta: toma ingredientes 
@@ -15,3 +15,4 @@ function suma(a, b)
 
 
 
+*/

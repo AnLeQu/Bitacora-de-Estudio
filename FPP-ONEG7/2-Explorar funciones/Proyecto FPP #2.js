@@ -4,16 +4,16 @@ let NumeroSecreto = Math.floor(Math.random()*10)+1;
 //Cuando se hace referencia a un elemento es a una etiqueta de HTML, como lo son los titulos, los parrafos, etc: h, h1... p, p1...
 function AsignarTextoElemento(elemento, texto)
 {
-    let elementoHTML = document.querySelector(elemento)
+    let elementoHTML = document.querySelector(elemento);
     //variable que llama o selecciona al elemento del html
-    elementoHTML.innerHTML = texto
-    //Llama al elemento para decirle que irá en el, cvual sera el texto dentro del parrafo o titulo o lo que sea
+    elementoHTML.innerHTML = texto;
+    //Llama al elemento para decirle que irá en el, cuál será el texto dentro del párrafo o titulo o lo que sea
     return;
 }
 
 function IntentoDeUsuario ()
     {
-        alert()
+        alert("Click desde el boton")
         return;
     }
 function GenerarNumeroSecreto(params) 
@@ -23,7 +23,7 @@ function GenerarNumeroSecreto(params)
         y no globalmente para todo el codigo escrito, mejor dicho afuera es como 
         ni existiera, se oculta porque se puede llamar la variable global adentro 
         de la funcion, en este caso usamos [return]*/
-        return
+        return NumeroSecreto    
     }
 
 AsignarTextoElemento ('h1', "Juego del numero secreto!")
