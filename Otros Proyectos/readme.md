@@ -1,5 +1,5 @@
 - Videos de YouTube
-- CIM [Tec / itcr]
+- CIM [Tec || itcr]
 - TAMA [FUNDEPOS]
 - Platzi
 - FPP-ONEG7 [alura LATAM]
