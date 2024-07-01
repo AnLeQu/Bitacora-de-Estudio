@@ -125,7 +125,7 @@ Lógica de programación: explorar funciones y listas</a></td>
 <img alt="Logo de Excel" src="">
 </p>
 
-> [!IMPORTANT]\(IMPORTANTE)
+> [!IMPORTANT]\
 > Los proyectos compartidos no son visibles dentro de GitHub por el formato de Excel, proximamente habilitaré un link para su vizualización 
 
 <table>
