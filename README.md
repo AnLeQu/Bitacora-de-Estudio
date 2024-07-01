@@ -23,11 +23,14 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 
 ### HTML, CSS y JavaScript
 <p align="center">
-<img alt="Logos de HTML, CSS y JS" src="/HTML, CSS y JavaScript/FPP-ONEG7/img/Sin título.png">
+<img alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
 <!--[Proyecto]( )-->
 
 ### Git y Github
+<p align="center">
+<img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
+</p>
 
 # IA y Data Science
 <table>
@@ -66,7 +69,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 
 # Python
 <p align="center">
-<img src="">
+<img alt="Logo de python" src="/Otros Proyectos/img/Python.png">
 </p>
 <table>
   <thead>
