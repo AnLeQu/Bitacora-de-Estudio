@@ -1,15 +1,13 @@
 # Contenido
-- [De qué trata esto](#De-qué-trata-esto)
+- [De qué trata esto](#de-qué-trata-esto)
 - [Formación de Principiantes en Programación](#fpp-oneg7)
 - [HTML-CSS-JavaScript](#html-css-y-javascript)
 - [Python](#Python)
-- [Excel](#Excel)
-<!-- [CIM](#--)
-- [TAMA](#--) -->
+- [Excel](#Excel) <!-- [CIM](#--) - [TAMA](#--) -->
 - [Contacto](#Contacto)
 - [Fuentes](#fuentes)
 
-# De qué trata esto
+# ¿De qué trata esto?
 Este repositorio de GitHub es un registro mi progreso de aprendizaje en diferentes lenguajes de programación y conceptos que son de utilidad durante este camino. Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, así como a aquellos que puedan ofrecer comentarios o sugerencias para mejorar durante este proceso.
 
 # FPP-ONEG7
@@ -76,7 +74,6 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 </table>
 
 
-
 <p align="center">
 <img alt="Captura de pantalla de un trabajo de Excel" src="/Excel/Captura de pantalla 2023-12-16 150224.png">
 </p>
@@ -98,21 +95,17 @@ Pueden enviarme sugerencias y unirse a mis grupos de mediante el siguiente los s
 **Warning:** No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando
 <!--
 
-- Videos de YouTube
-Mas que videos voy a dejar canales que recomiendo y que han sido fuente para mi aprendizaje
+### Canales de YouTube
+En vez de videos voy a dejar canales que recomiendo y que han sido recursos para mi aprendizaje
 - [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
 - [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion)
 - [Platzi](https://www.youtube.com/@Platzi)
 
+### Cursos
 - FPP-ONEG7 [alura LATAM](https://app.aluracursos.com/)
-
-
 - CIM [Tec || itcr]
-
 - TAMA [FUNDEPOS]
 
-
-
-
-- Repositorios
+### Repositorios
+- [OSSU](https://github.com/ossu/data-science)
 -->
