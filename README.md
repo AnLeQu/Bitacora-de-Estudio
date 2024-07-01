@@ -1,8 +1,9 @@
 ## --Contenido
 - [De qué trata esto](#--De-qué-trata-esto)
 - [Formación de Principiantes en Programación](#--Motivación-y-Preparación)
+- [HTML, CSS y JavaScript] (##--HTML,-CSS-y-JavaScript)
+- [Python](#--Python)
 - [Excel](#--Excel)
-- [Python](#--currícula)
 <!-- [CIM](#--)
 - [TAMA](#--) -->
 
@@ -18,7 +19,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 
 - Mientras voy aprendiendo decidí que dejaría este registro para ver mi avance durante los 7 meses que dura este curso... Así que pronto estará lleno de trabajos y tareas.
 
-## --HTML, CCSS y JavaScript
+## --HTML, CSS y JavaScript
 <p align="center">
 <img src="/HTML, CSS y JavaScript/FPP-ONEG7/img/Sin título.png">
 </p>
