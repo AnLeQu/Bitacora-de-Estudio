@@ -9,7 +9,7 @@
 ## --De qué trata esto
 Este repositorio de GitHub es un registro mi progreso de aprendizaje en diferentes lenguajes de programación y conceptos que son de utilidad durante este camino. Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, así como a aquellos que puedan ofrecer comentarios o sugerencias para mejorar durante este proceso.
 
-## --FPP-ONEG7
+# FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
 
 
@@ -21,6 +21,11 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 ## --HTML, CCSS y JavaScript
 <p align="center">
 <img src="/HTML, CSS y JavaScript/FPP-ONEG7/img/Sin título.png">
+</p>
+
+## --Python
+<p align="center">
+<img src="">
 </p>
 
 ## --Excel
