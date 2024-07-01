@@ -42,15 +42,12 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
   <tbody>
     <tr>
       <td><a href="https://platzi.com/p/AnLeQu/curso/2807-aprender-data-ia/diploma/detalle/">Guía para Empezar una Carrera en Data Science e Inteligencia Artificial</a></td>
-      <td>-</td>
     </tr>
     <tr>
       <td><a href="https://platzi.com/p/AnLeQu/curso/8517-adopcion-ia/diploma/detalle/">Guía de Adopción a la Inteligencia Artificial</a></td>
-      <td>-</td>
     </tr>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/7963-ai/diploma/detalle/">Curso de Introducción a Inteligencia Artificial</a></td>
-    <td>-</td>
     </tr>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/6935-ia-data-ml/diploma/detalle/">Curso de Fundamentos de IA para Data y Machine Learning</a></td>
