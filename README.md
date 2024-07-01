@@ -1,4 +1,4 @@
-## --Contenido
+# Contenido
 - [De qué trata esto](#De-qué-trata-esto)
 - [Formación de Principiantes en Programación](#fpp-oneg7)
 - [HTML-CSS-JavaScript](#html-css-y-javascript)
@@ -7,8 +7,9 @@
 <!-- [CIM](#--)
 - [TAMA](#--) -->
 - [Contacto](#Contacto)
+- [Fuentes](#fuentes)
 
-## De qué trata esto
+# De qué trata esto
 Este repositorio de GitHub es un registro mi progreso de aprendizaje en diferentes lenguajes de programación y conceptos que son de utilidad durante este camino. Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, así como a aquellos que puedan ofrecer comentarios o sugerencias para mejorar durante este proceso.
 
 # FPP-ONEG7
