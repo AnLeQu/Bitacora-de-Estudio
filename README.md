@@ -39,11 +39,15 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 
 | Curso                                                                                                                 |  Contenido |    Proyecto    |  Curso/Plataforma  |
 | :--------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :----------: |
-| [Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - | - |     Platzi      |
-| [Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - | - |     Platzi      |
-| [Repaso en Excel](/Excel/1.%20REPASO1.xlsx)                          | -  | - | TAMA |
-| [Formulas de texto](/Excel/2.%20FORMULAS%20DE%20TEXTO.xlsx) | - | - |     TAMA      |
-| [Tabla BDSUMA - BDPROMR.](/Excel/3.%20Tabla%20BDSUMA%20-%20BDPROMR..xlsx) | - | - |     TAMA      |
+| [Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - | - | Platzi |
+| [Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - | - | Platzi |
+| Curso de Excel TAMA | - | - | TAMA |
+| - | [Repaso en Excel](/Excel/1.%20REPASO1.xlsx)                          | - | TAMA |
+| - | [Formulas de texto](/Excel/2.%20FORMULAS%20DE%20TEXTO.xlsx) | - | TAMA |
+| - | [Tabla BDSUMA - BDPROMR.](/Excel/3.%20Tabla%20BDSUMA%20-%20BDPROMR..xlsx) | - | TAMA |
+| - | [Dashboard Con BDSUMA](/Excel/4.%20Dashboard%20Con%20BDSUMA.xlsx) | - | TAMA |
+| - | [SUBTOTAL](/Excel/5.SUBTOTAL.xlsx) | - | TAMA |
+| - | [SUBTOTAL](/Excel/5.SUBTOTAL.xlsx) | - | TAMA |
 
 <p align="center">
 <img alt="Captura de pantalla de un trabajo de Excel" src="/Excel/Captura de pantalla 2023-12-16 150224.png">
