@@ -51,19 +51,15 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
     </tr>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/6935-ia-data-ml/diploma/detalle/">Curso de Fundamentos de IA para Data y Machine Learning</a></td>
-    <td>-</td>
     </tr>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/3156-etica-ia/diploma/detalle/">Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial</a></td>
-    <td>-</td>
     </tr>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/2434-jupyter-notebook/diploma/detalle/">Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda</a></td>
-    <td>-</td>
     </tr>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/2069-negocios-data-science/diploma/detalle/">Curso de Análisis de Negocios para Ciencia de Datos</a></td>
-    <td>-</td>
     </tr>
   </tbody>
 </table>
