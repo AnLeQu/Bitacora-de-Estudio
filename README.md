@@ -23,7 +23,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 
 ### HTML, CSS y JavaScript
 <p align="center">
-<img src="/HTML, CSS y JavaScript/FPP-ONEG7/img/Sin título.png">
+<img alt="Logos de HTML, CSS y JS" src="/HTML, CSS y JavaScript/FPP-ONEG7/img/Sin título.png">
 </p>
 <!--[Proyecto]( )-->
 
@@ -34,7 +34,19 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 
 ## Excel
 <p align="center">
-<img src="/Excel/Captura de pantalla 2023-12-16 150224.png">
+<img alt="Logo de Excel" src="">
+</p>
+
+| Curso                                                                                                                 |  Contenido |    Proyecto    |  Curso/Plataforma  |
+| :--------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: | :----------: |
+| [Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - | - |     Platzi      |
+| [Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - | - |     Platzi      |
+| [Repaso en Excel](/Excel/1.%20REPASO1.xlsx)                          | -  | - | TAMA |
+| [Formulas de texto](/Excel/2.%20FORMULAS%20DE%20TEXTO.xlsx) | - | - |     TAMA      |
+| [Tabla BDSUMA - BDPROMR.](/Excel/3.%20Tabla%20BDSUMA%20-%20BDPROMR..xlsx) | - | - |     TAMA      |
+
+<p align="center">
+<img alt="Captura de pantalla de un trabajo de Excel" src="/Excel/Captura de pantalla 2023-12-16 150224.png">
 </p>
 
 ### Probabilidad y Estadistica en Exel y Google Sheets
@@ -44,22 +56,28 @@ Pueden enviarme sugerencias y unirse a mis grupos de mediante el siguiente los s
   - [LinkedIn](https://www.linkedin.com/in/anlequ/)  
   - [Correo](AnLeQu@outlook.com)
   <!-- - [Telegram]()
-  - [Discord]()
+  - [Discord](https://discord.gg/PDEy2m3ddz)
   -->
 
 ## Fuentes  
-**Warning:** No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, incluso repertorios hasta videos de YT, paginas web u otras redes sociales son de utilidad en mi intento aprender un poco más cada dia, quiero aprovechar lo mas que pueda las oportunidades que se me han dado. Y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando
+**Warning:** No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando
 <!--
 
 - Videos de YouTube
 Mas que videos voy a dejar canales que recomiendo y que han sido fuente para mi aprendizaje
+- [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
+- [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion)
+- [Platzi](https://www.youtube.com/@Platzi)
+
+- FPP-ONEG7 [alura LATAM](https://app.aluracursos.com/)
+
+
 - CIM [Tec || itcr]
 
 - TAMA [FUNDEPOS]
 
-- Platzi
 
-- FPP-ONEG7 [alura LATAM]
+
 
 - Repositorios
 -->
