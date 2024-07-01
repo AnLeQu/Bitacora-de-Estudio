@@ -37,20 +37,20 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 <img alt="Logo de Excel" src="">
 </p>
 
-| Curso                                                                                                                 |  Contenido |
-| :--------------------------------------------------------------------------------------------- | :--------: |
-| [Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | - |
-| [Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos](https://platzi.com/p/AnLeQu/curso/4036-excel-basico/diploma/detalle/) | - |
-| Curso de Excel TAMA | 
-- [Repaso en Excel](/Excel/1.%20REPASO1.xlsx)  
+| [Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo](https://platzi.com/p/AnLeQu/curso/3639-excel-intro/diploma/detalle/) | :---------------------------------------------------------------------------------------------
+| [Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos](https://platzi.com/p/AnLeQu/curso/4036-excel-basico/diploma/detalle/) |:---------------------------------------------------------------------------------------------
+| Curso de Excel TAMA | :---------------------------------------------------------------------------------------------
+| - [Repaso en Excel](/Excel/1.%20REPASO1.xlsx)  
 - [Formulas de texto](/Excel/2.%20FORMULAS%20DE%20TEXTO.xlsx) 
 - [Tabla BDSUMA - BDPROMR.](/Excel/3.%20Tabla%20BDSUMA%20-%20BDPROMR..xlsx) 
 - [Dashboard Con BDSUMA](/Excel/4.%20Dashboard%20Con%20BDSUMA.xlsx) 
 - [SUBTOTAL](/Excel/5.SUBTOTAL.xlsx) 
 - [Tablas Dinamicas](/Excel/12.%20Tablas%20Dinamicas%201.xlsx) 
 - [DashBoard](/Excel/14._DashBoard-1684450094313.xlsx) 
-- [Power Pivot y Formulas](/Excel/16.%20power%20pivot%20y%20formulas.xlsx) |
-| Curso de Excel Intermedio para Analistas con Tableros y Fórmulas | [Proyecto](/Excel/Curso%20de%20Excel%20Intermedio%20para%20Analistas%20con%20Tableros%20y%20Fórmulas/PROYECTO%20EXCEL%20TABLAS%20-%20ANLEQU.xlsx) |
+- [Power Pivot y Formulas](/Excel/16.%20power%20pivot%20y%20formulas.xlsx) | :---------------------------------------------------------------------------------------------
+
+
+| Curso de Excel Intermedio para Analistas con Tableros y Fórmulas | [Proyecto](/Excel/Curso%20de%20Excel%20Intermedio%20para%20Analistas%20con%20Tableros%20y%20Fórmulas/PROYECTO%20EXCEL%20TABLAS%20-%20ANLEQU.xlsx) | :---------------------------------------------------------------------------------------------
 
 <p align="center">
 <img alt="Captura de pantalla de un trabajo de Excel" src="/Excel/Captura de pantalla 2023-12-16 150224.png">
