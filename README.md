@@ -124,7 +124,8 @@ Lógica de programación: explorar funciones y listas</a></td>
 <p align="center">
 <img alt="Logo de Excel" src="">
 </p>
-> [!IMPORTANT]\
+
+> [!IMPORTANT]\(IMPORTANTE)
 > Los proyectos compartidos no son visibles dentro de GitHub por el formato de Excel, proximamente habilitaré un link para su vizualización 
 
 <table>
@@ -186,7 +187,7 @@ Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis gr
   > Todo aquella que utilice mi información de contacto para enviarme spam, o contenido no deseado los bloquearé y de ser el caso los repotaré.
 
 ## Fuentes
-> [!NOTA]\
+> [!NOTE]\
 > No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando
 
 ### Canales de YouTube
