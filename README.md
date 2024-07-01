@@ -26,6 +26,35 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 <img alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
 <!--[Proyecto]( )-->
+<table>
+  <thead>
+    <tr>
+      <th>Cursos</th>
+      <th>Contenidos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://app.aluracursos.com/certificate/88d50ad9-7900-4335-8b38-f071ba9fedb9?lang">Curso de
+Lógica de programación: sumérgete en la programación con JavaScript</a></td>
+      <td>
+        <ul>
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/Proyecto FPP #1.js">Código del Proyecto FPP #1</a></li> <!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://app.aluracursos.com/certificate/7a8b22de-9530-400f-a794-e3a5cf418a9f?lang">Curso de
+Lógica de programación: explorar funciones y listas</a></td>
+      <td>
+        <ul>
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones/Proyecto FPP #2.js">Código del Proyecto FPP #2</a></li>
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones/Proyecto FPP #2.js">Visualización Proyecto FPP #2</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Git y Github
 <p align="center">
@@ -61,6 +90,9 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/curso/2069-negocios-data-science/diploma/detalle/">Curso de Análisis de Negocios para Ciencia de Datos</a></td>
     </tr>
+    <tr>
+    <td><a href="https://platzi.com/p/AnLeQu/ruta/13496-introduccion-data-ia/diploma/detalle/">Ruta de Aprendizaje de Bases para Analítica y Ciencia de Datos</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -80,7 +112,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
       <td><a href="https://platzi.com/p/AnLeQu/curso/4227-python-fundamentos/diploma/detalle/">Curso de Fundamentos de Python</a></td>
       <td>
         <ul>
-          <li><a href="/Python/3-PIP y Entornos Virtuales/main.py">Proyecto</a></li>
+          <li><a href="/Python/3-PIP y Entornos Virtuales/main.py">Código del proyecto</a></li>
         </ul>
       </td>
     </tr>
