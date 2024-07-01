@@ -5,7 +5,8 @@
     - [Git y Github](#git-y-github)
 - [IA - Data Science](#ia-y-data-science)
     - [Python](#Python)
-- [Excel](#Excel) <!-- [CIM](#--) - [TAMA](#--) -->
+    - [Excel](#Excel)
+        - [Estadística y Probabilidad](#probabilidad-y-estadistica-en-exel-y-google-sheets) <!-- [CIM](#--) - [TAMA](#--) -->
 - [Contacto](#Contacto)
 - [Fuentes](#fuentes)
 
@@ -172,7 +173,7 @@ Lógica de programación: explorar funciones y listas</a></td>
 ## Probabilidad y Estadistica en Exel y Google Sheets
 | Curso                                                                                                                 |  Contenido |
 | :--------------------------------------------------------------------------------------------- | :--------: |
-| [Curso de Introducción a Excel para Principiantes: Fundamentos y Formato de Hojas de Cálculo](https://platzi.com/p/AnLeQu/curso/7594-estadistica-probabilidad/diploma/detalle/) | [Proyecto](/Excel/Intro%20a%20Est%20&%20Prob/) |
+| [Curso de Estadística y Probabilidad](https://platzi.com/p/AnLeQu/curso/7594-estadistica-probabilidad/diploma/detalle/) | [Proyecto](/Excel/Intro%20a%20Est%20&%20Prob/) |
 
 ## Contacto
 Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis grupos de mediante el siguiente los siguientes enlaces:
@@ -181,11 +182,11 @@ Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis gr
   - Correo: AnLeQu@outlook.com
   <!-- - [Telegram]()
   -->
-  > [!WARNING]\ 
+ > [!WARNING]\
   > Todo aquella que utilice mi información de contacto para enviarme spam, o contenido no deseado los bloquearé y de ser el caso los repotaré.
 
 ## Fuentes
-> [!NOTE]\
+> [!NOTA]\
 > No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando
 
 ### Canales de YouTube
