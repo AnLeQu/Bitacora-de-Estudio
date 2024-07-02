@@ -3,10 +3,12 @@
 - [Formación de Principiantes en Programación](#fpp-oneg7)
     - [HTML-CSS-JavaScript](#html-css-y-javascript)
     - [Git y Github](#git-y-github)
-- [IA - Data Science](#ia-y-data-science)
-    - [Python](#Python)
-    - [Excel](#Excel)
-        - [Estadística y Probabilidad](#probabilidad-y-estadistica-en-exel-y-google-sheets) <!-- [CIM](#--) - [TAMA](#--) -->
+
+- [CIM](#cim) <!--[TAMA](#--) -->
+  - [IA - Data Science](#ia-y-data-science)
+  - [Python](#Python)
+  - [Excel](#Excel)
+    - [Estadística y Probabilidad](#probabilidad-y-estadistica-en-exel-y-google-sheets)
 - [Contacto](#Contacto)
 - [Fuentes](#fuentes)
 
@@ -62,7 +64,15 @@ Lógica de programación: explorar funciones y listas</a></td>
 <img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
 </p>
 
-# IA y Data Science
+# CIM
+<!--
+# R
+# Mathlab
+# C++
+[GNome](https://github.com/google-deepmind/materials_discovery)
+-->
+
+## IA y Data Science
 <table>
   <thead>
     <tr>
@@ -183,15 +193,15 @@ Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis gr
   - Correo: AnLeQu@outlook.com
   <!-- - [Telegram]()
   -->
- > [!WARNING]\
-  > Cómo mencioné anteriormente esto es para que tengan una manera más directa de contatcarme, por favor con lo que se refiere a mi información de contacto no la utilicen para enviarme spam, o contenido no deseado ya que tendré que bloquearlos y de ser el caso los repotarlos
+ > [!IMPORTANT]\
+  > Cómo mencioné anteriormente estos datos son para que tengan una manera más directa de contactarme, por favor con lo que se refiere a mi información de contacto no la utilicen para enviarme spam, o contenido no deseado ya que tendré que bloquearlos y de ser el caso los repotarlos.
 
-## Fuentes
+# Fuentes
 > [!NOTE]\
-> No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando
+> No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando.
 
 ### Canales de YouTube
-En vez de videos voy a dejar canales que recomiendo y que han sido recursos para mi aprendizaje
+En vez de videos voy a dejar canales que recomiendo y que han sido recursos durante mi aprendizaje
 - [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
 - [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion)
 - [Platzi](https://www.youtube.com/@Platzi)
@@ -200,7 +210,20 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos para
 - FPP-ONEG7 [alura LATAM](https://app.aluracursos.com/)
 - CIM [Tec || itcr]
 - TAMA [FUNDEPOS]
+- [Platzi](https://platzi.com/)
 
 ### Repositorios
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
-- [OSSU](https://github.com/ossu/data-science)
+
+### Articulos y otros links
+[GNome](https://github.com/google-deepmind/materials_discovery)
+- [Millions of new materials discovered with deep learning](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
+- [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
+<!-- 
+> [!WARNING]\
+> Estos son articulos generados por la Inteligencia Artificial de LinkedIn
+
+- [¿Cuáles son los softwares y herramientas de simulación más importantes para la Ciencia de los Materiales?](https://www.linkedin.com/advice/0/what-most-important-simulation-software-tools?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
+[¿Cómo puedes ampliar tu experiencia en Ciencia de los Materiales con lenguajes de programación avanzados?](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
+[](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
+-->
