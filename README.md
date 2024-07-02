@@ -198,7 +198,7 @@ Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis gr
 
 # Fuentes
 > [!NOTE]\
-> No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repertorios hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando.
+> No solo hay una unica fuente donde voy agarrando la información a pesar que diga que el curso tal o cuál, la verdad es que incluso hago uso desde repositorios en GitHub hasta videos de YT, paginas web u otras redes sociales, ya son de utilidad en mi intento aprender un poco más cada dia. Quiero aprovechar lo mas que pueda las oportunidades que se me han dado y la idea de este repositorio es demostrar el tiempo qu le dedico, por lo tanto los trabajos van dependiendo de como voy avanzando.
 
 ### Canales de YouTube
 En vez de videos voy a dejar canales que recomiendo y que han sido recursos durante mi aprendizaje
