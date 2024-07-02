@@ -184,7 +184,7 @@ Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis gr
   <!-- - [Telegram]()
   -->
  > [!WARNING]\
-  > Todo aquella que utilice mi información de contacto para enviarme spam, o contenido no deseado los bloquearé y de ser el caso los repotaré.
+  > Cómo mencioné anteriormente esto es para que tengan una manera más directa de contatcarme, por favor con lo que se refiere a mi información de contacto no la utilicen para enviarme spam, o contenido no deseado ya que tendré que bloquearlos y de ser el caso los repotarlos
 
 ## Fuentes
 > [!NOTE]\
