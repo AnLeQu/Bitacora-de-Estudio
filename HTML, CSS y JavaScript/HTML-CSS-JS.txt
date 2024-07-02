@@ -1,0 +1,9 @@
+HTML, CSS y JavaScript (JS) son tres tecnologías fundamentales para el desarrollo web.
+
+HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para estructurar el contenido de una página web. Este lenguaje emplea etiquetas para definir la jerarquía de los elementos de una página. El HTML es como el esqueleto de una página web: trabaja organizando el contenido, como títulos, párrafos, imágenes y enlaces, para que todo esté ordenado y en su lugar.
+
+CSS (Cascading Style Sheets), se destaca como un lenguaje de estilos. Separa la presentación de la estructura: es responsable de la presentación y estilización de los elementos, ya que permite controlar colores, fuentes, diseños y otros aspectos visuales. Es como vestir la estructura HTML con ropa elegante para que la página se vea exactamente como deseas.
+
+JavaScript, por su parte, es el único lenguaje de programación de los tres. Es responsable de agregar interactividad y dinamismo a las páginas. Permite la creación de funcionalidades como animaciones, validaciones de formularios y actualizaciones de contenido en tiempo real.
+
+El papel de cada una de estas tecnologías en la construcción de aplicaciones web, en resumen, es el siguiente: HTML estructura el contenido, CSS define el estilo y el diseño, y JavaScript agrega funcionalidades dinámicas.
