@@ -13,7 +13,7 @@ function AsignarTextoElemento(elemento, texto)
 
 function IntentoDeUsuario ()
     {
-        alert("Click desde el boton")
+        alert("Click desde el boton");
         return;
     }
 function GenerarNumeroSecreto(params) 
@@ -23,8 +23,8 @@ function GenerarNumeroSecreto(params)
         y no globalmente para todo el codigo escrito, mejor dicho afuera es como 
         ni existiera, se oculta porque se puede llamar la variable global adentro 
         de la funcion, en este caso usamos [return]*/
-        return NumeroSecreto    
+        return NumeroSecreto; 
     }
 
-AsignarTextoElemento ('h1', "Juego del numero secreto!")
-AsignarTextoElemento ('p', "Indica un numero de 1 al 10")
+AsignarTextoElemento ('h1', "Juego del numero secreto!");
+AsignarTextoElemento ('p', "Indica un numero de 1 al 10");
