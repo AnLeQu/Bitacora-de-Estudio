@@ -103,6 +103,9 @@ Lógica de programación: explorar funciones y listas</a></td>
     <tr>
     <td><a href="https://platzi.com/p/AnLeQu/ruta/13496-introduccion-data-ia/diploma/detalle/">Ruta de Aprendizaje de Bases para Analítica y Ciencia de Datos</a></td>
     </tr>
+    <tr>
+    <td><a href="">ChatGPT: Optimizando la calidad de los resultados</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -225,5 +228,5 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 
 - [¿Cuáles son los softwares y herramientas de simulación más importantes para la Ciencia de los Materiales?](https://www.linkedin.com/advice/0/what-most-important-simulation-software-tools?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 [¿Cómo puedes ampliar tu experiencia en Ciencia de los Materiales con lenguajes de programación avanzados?](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
-[](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
+[¿Cómo puedes ampliar tu experiencia en Ciencia de los Materiales con lenguajes de programación avanzados?](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
 -->
