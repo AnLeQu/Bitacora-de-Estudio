@@ -27,6 +27,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 <p align="center">
 <img alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
+
 <!--[Proyecto]( )-->
 <table>
   <thead>
@@ -41,7 +42,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 Lógica de programación: sumérgete en la programación con JavaScript</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/Proyecto FPP #1.js">Código del Proyecto FPP #1</a></li> <!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/FPP01-Project.js">Código del Proyecto FPP #1</a></li> 
         </ul>
       </td>
     </tr>
@@ -50,11 +51,55 @@ Lógica de programación: sumérgete en la programación con JavaScript</a></td>
 Lógica de programación: explorar funciones y listas</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones/Proyecto FPP #2.js">Código del Proyecto FPP #2</a></li>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones/Proyecto FPP #2.js">Visualización Proyecto FPP #2</a></li>
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones/FPP2-Project.js">Código del Proyecto FPP #2</a></li>
+          <li><a href="     ">Visualización Proyecto FPP #2</a></li> <!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
         </ul>
       </td>
     </tr>
+
+<!--
+    <tr>
+      <td><a href="   ">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></td>
+        <td>
+          <ul>
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>  
+          </ul>
+        </td>
+      </tr>
+    <tr>
+      <td><a href="   ">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></td>
+        <td>
+          <ul>
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
+          </ul>
+        </td>
+      </tr>
+    <tr>
+      <td><a href="   ">Curso de HTML y CSS: header, footer y variables CSS</a></td>
+        <td>
+          <ul>
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
+          </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><a href="   ">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></td>
+        <td>
+          <ul>
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
+          </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><a href="      ">Prácticando lógica de programación: Challenge Encriptador de texto</a></td>
+        <td>
+         <ul>
+           <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/Proyecto FPP #1.js">Proyecto</a></li> 
+        </ul>
+      </td>
+    </tr>
+    <tr>
+El espacio es para llenar con lo que hace falta-->
   </tbody>
 </table>
 
@@ -62,6 +107,26 @@ Lógica de programación: explorar funciones y listas</a></td>
 <p align="center">
 <img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
 </p>
+
+<!--
+<table>
+  <thead>
+    <tr>
+      <th>Cursos</th>
+      <th>Contenidos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="      ">Curso de Git y GitHub: repositorio, commit y versiones</a></td>
+      <td>
+        <ul>
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/Proyecto FPP #1.js">Proyecto</a></li> 
+        </ul>
+      </td>
+    </tr>
+    <tr>
+-->
 
 # CIM
 <!--
@@ -104,7 +169,7 @@ Lógica de programación: explorar funciones y listas</a></td>
     <td><a href="https://platzi.com/p/AnLeQu/ruta/13496-introduccion-data-ia/diploma/detalle/">Ruta de Aprendizaje de Bases para Analítica y Ciencia de Datos</a></td>
     </tr>
     <tr>
-    <td><a href="">ChatGPT: Optimizando la calidad de los resultados</a></td>
+    <td><a href="https://app.aluracursos.com/user/anlequ/course/chatgpt-optimizando-calidad-resultados/certificate">ChatGPT: Optimizando la calidad de los resultados</a></td>
     </tr>
   </tbody>
 </table>
@@ -222,8 +287,7 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 [GNome](https://github.com/google-deepmind/materials_discovery)
 - [Millions of new materials discovered with deep learning](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 - [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
-[OpenAI Platform - Playground](https://platform.openai.com/docs/overview)
-- [Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
+[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
 <!-- 
 > [!WARNING]\
 > Estos son articulos generados por la inteligencia artificial de LinkedIn
