@@ -287,7 +287,8 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 [GNome](https://github.com/google-deepmind/materials_discovery)
 - [Millions of new materials discovered with deep learning](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 - [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
-[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
+Tokenizer
+-[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
 <!-- 
 > [!WARNING]\
 > Estos son articulos generados por la inteligencia artificial de LinkedIn
