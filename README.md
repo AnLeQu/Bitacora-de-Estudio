@@ -292,24 +292,33 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 
 ### Articulos y otros links
 [w3schools](https://w3schools.com/html/html_intro.asp)
+
 [mdn]
--[Selectores](https://developer.mozilla.org/es/docs/Web/CSS/CSS_selectors)
+- [Selectores](https://developer.mozilla.org/es/docs/Web/CSS/CSS_selectors)
+
 [Alura Cursos]
--[Extensiones](https://www.aluracursos.com/blog/extensiones-de-vscode-descubre-cuales-son-las-mas-utilizadas) 
--[Nombres de clases](https://www.aluracursos.com/blog/nombre-de-clases-en-css)
--[Reset CSS](https://www.aluracursos.com/blog/reset-css-que-es-ejemplos-como-crear-y-utilizar)
+- [Extensiones](https://www.aluracursos.com/blog/extensiones-de-vscode-descubre-cuales-son-las-mas-utilizadas) 
+- [Nombres de clases](https://www.aluracursos.com/blog/nombre-de-clases-en-css)
+- [Reset CSS](https://www.aluracursos.com/blog/reset-css-que-es-ejemplos-como-crear-y-utilizar)
+
 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 [Emmet](https://docs.emmet.io/es) una herramienta que permite escribir códigos HTML y CSS de manera extremadamente rápida y productiva.
+
 [Semantica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-[Coolors](https://coolors.co/)
-[Adobe Color](https://color.adobe.com/pt/create/color-wheel) presenta una Rueda de Colores que se puede ajustar de diversas maneras para obtener una armonía de colores. 
-[Color Hunt](https://colorhunt.co/) ofrece diversas paletas elaboradas. 
-[Color Tool]() Color Tool es excelente para crear, compartir y aplicar paletas de colores a la interfaz de usuario.
+
+[Colores]
+- [Coolors](https://coolors.co/)
+- [Adobe Color](https://color.adobe.com/pt/create/color-wheel) presenta una Rueda de Colores que se puede ajustar de diversas maneras para obtener una armonía de colores. 
+- [Color Hunt](https://colorhunt.co/) ofrece diversas paletas elaboradas. 
+- [Color Tool]() Color Tool es excelente para crear, compartir y aplicar paletas de colores a la interfaz de usuario.
+
 [GNome](https://github.com/google-deepmind/materials_discovery)
 - [Millions of new materials discovered with deep learning](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 - [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
-Tokenizer
--[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
+
+[Tokenizer]
+- [Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
 <!-- 
 > [!WARNING]\
 > Estos son articulos generados por la inteligencia artificial de LinkedIn, algunos estan comentados por espertos en sus áreas...
