@@ -279,11 +279,13 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion)
 - [Platzi](https://www.youtube.com/@Platzi)
 
+<!--
 ### Cursos
 - FPP-ONEG7 [alura LATAM](https://app.aluracursos.com/)
 - CIM [Tec || itcr]
 - TAMA [FUNDEPOS]
 - [Platzi](https://platzi.com/)
+-->
 
 ### Repositorios
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
