@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html lang="es-cr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitacora de Estudio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="editor">
+        <div class="line-numbers">
+            <span>1</span><br>
+            <span>2</span><br>
+            <span>3</span><br>
+            <span>4</span><br>
+            <span>5</span><br>
+            <span>6</span><br>
+            <span>7</span><br>
+            <span>8</span><br>
+            <span>9</span><br>
+            <span>10</span><br>
+        </div>
+        <div class="content">
+            <p>Contenido</p>
+            <p></p>
+        </div>
+    </div>
+</body>
+</html>
+
 # Contenido
 - [De qué trata esto](#de-qué-trata-esto)
 - [Formación de Principiantes en Programación](#fpp-oneg7)
@@ -285,6 +315,20 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [GNome](https://github.com/google-deepmind/materials_discovery)
 
 ### Articulos y otros links
+[w3schools](https://w3schools.com/html/html_intro.asp)
+[mdn]
+-[Selectores](https://developer.mozilla.org/es/docs/Web/CSS/CSS_selectors)
+[Alura Cursos]
+-[Extensiones](https://www.aluracursos.com/blog/extensiones-de-vscode-descubre-cuales-son-las-mas-utilizadas) 
+-[Nombres de clases](https://www.aluracursos.com/blog/nombre-de-clases-en-css)
+-[Reset CSS](https://www.aluracursos.com/blog/reset-css-que-es-ejemplos-como-crear-y-utilizar)
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Emmet](https://docs.emmet.io/es) una herramienta que permite escribir códigos HTML y CSS de manera extremadamente rápida y productiva.
+[Semantica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+[Coolors](https://coolors.co/)
+[Adobe Color](https://color.adobe.com/pt/create/color-wheel) presenta una Rueda de Colores que se puede ajustar de diversas maneras para obtener una armonía de colores. 
+[Color Hunt](https://colorhunt.co/) ofrece diversas paletas elaboradas. 
+[Color Tool]() Color Tool es excelente para crear, compartir y aplicar paletas de colores a la interfaz de usuario.
 [GNome](https://github.com/google-deepmind/materials_discovery)
 - [Millions of new materials discovered with deep learning](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 - [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
