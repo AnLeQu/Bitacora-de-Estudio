@@ -4,29 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bitacora de Estudio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="editor">
-        <div class="line-numbers">
-            <span>1</span><br>
-            <span>2</span><br>
-            <span>3</span><br>
-            <span>4</span><br>
-            <span>5</span><br>
-            <span>6</span><br>
-            <span>7</span><br>
-            <span>8</span><br>
-            <span>9</span><br>
-            <span>10</span><br>
-        </div>
-        <div class="content">
-            <p>Contenido</p>
-            <p></p>
-        </div>
-    </div>
-</body>
-</html>
 
 # Contenido
 - [De qué trata esto](#de-qué-trata-esto)
