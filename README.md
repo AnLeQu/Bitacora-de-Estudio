@@ -280,6 +280,7 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Platzi](https://platzi.com/)
 
 ### Repositorios
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
 - [GNome](https://github.com/google-deepmind/materials_discovery)
 
@@ -291,7 +292,7 @@ Tokenizer
 -[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
 <!-- 
 > [!WARNING]\
-> Estos son articulos generados por la inteligencia artificial de LinkedIn
+> Estos son articulos generados por la inteligencia artificial de LinkedIn, algunos estan comentados por espertos en sus áreas...
 
 - [¿Cuáles son los softwares y herramientas de simulación más importantes para la Ciencia de los Materiales?](https://www.linkedin.com/advice/0/what-most-important-simulation-software-tools?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 [¿Cómo puedes ampliar tu experiencia en Ciencia de los Materiales con lenguajes de programación avanzados?](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
