@@ -45,10 +45,11 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
   <tbody>
     <tr>
       <td><a href="https://app.aluracursos.com/certificate/88d50ad9-7900-4335-8b38-f071ba9fedb9?lang">Curso de
-Lógica de programación: sumérgete en la programación con JavaScript</a></td>
+Lógica de programación: sumérgete en la programación con JavaScript><img src="/"</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/FPP01-Project.js">Código del Proyecto FPP #1</a></li> 
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/FPP01-Project.js"><img src="/Otros Proyectos/img/Botones/See-code.svg" height="50" align="center" />
+        </a></li> 
         </ul>
       </td>
     </tr>
