@@ -48,7 +48,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 Lógica de programación: sumérgete en la programación con JavaScript</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/FPP01-Project.js"><img src="/Otros Proyectos/img/See-code-webp.webp">Código del Proyecto FPP #1</a></li> 
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/FPP01-Project.js">Código del Proyecto FPP #1</a></li> 
         </ul>
       </td>
     </tr>
