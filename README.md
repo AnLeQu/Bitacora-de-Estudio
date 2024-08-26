@@ -292,6 +292,8 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
 - [GNome](https://github.com/google-deepmind/materials_discovery)
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
+- [Skill Icons](https://github.com/tandpfun/skill-icons#readme)
+
 
 ### Articulos y otros links
 [Readme Typing SVG](https://readme-typing-svg.demolab.com/)
