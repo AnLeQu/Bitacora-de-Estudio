@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="es-cr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 # Contenido
 - [De qué trata esto](#de-qué-trata-esto)
 - [Formación de Principiantes en Programación](#fpp-oneg7)
@@ -273,29 +279,52 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion)
 - [Platzi](https://www.youtube.com/@Platzi)
 
+<!--
 ### Cursos
 - FPP-ONEG7 [alura LATAM](https://app.aluracursos.com/)
 - CIM [Tec || itcr]
 - TAMA [FUNDEPOS]
 - [Platzi](https://platzi.com/)
+-->
 
 ### Repositorios
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
 - [GNome](https://github.com/google-deepmind/materials_discovery)
-- [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
 
 ### Articulos y otros links
+[Readme Typing SVG](https://readme-typing-svg.demolab.com/)
+
+[w3schools](https://w3schools.com/html/html_intro.asp)
+
+[mdn]
+- [Selectores](https://developer.mozilla.org/es/docs/Web/CSS/CSS_selectors)
+
+[Alura Cursos]
+- [Extensiones](https://www.aluracursos.com/blog/extensiones-de-vscode-descubre-cuales-son-las-mas-utilizadas) 
+- [Nombres de clases](https://www.aluracursos.com/blog/nombre-de-clases-en-css)
+- [Reset CSS](https://www.aluracursos.com/blog/reset-css-que-es-ejemplos-como-crear-y-utilizar)
+
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[Emmet](https://docs.emmet.io/es) una herramienta que permite escribir códigos HTML y CSS de manera extremadamente rápida y productiva.
+
+[Semantica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+[Colores]
+- [Coolors](https://coolors.co/)
+- [Adobe Color](https://color.adobe.com/pt/create/color-wheel) presenta una Rueda de Colores que se puede ajustar de diversas maneras para obtener una armonía de colores. 
+- [Color Hunt](https://colorhunt.co/) ofrece diversas paletas elaboradas. 
+- [Color Tool]() Color Tool es excelente para crear, compartir y aplicar paletas de colores a la interfaz de usuario.
+
 [GNome](https://github.com/google-deepmind/materials_discovery)
 - [Millions of new materials discovered with deep learning](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 - [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
 Tokenizer
 -[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
-- [W3SCHOOL HTML](https://www.w3schools.com/html/)
-
 <!-- 
 > [!WARNING]\
-> Estos son articulos generados por la inteligencia artificial de LinkedIn
+> Estos son articulos generados por la inteligencia artificial de LinkedIn, algunos estan comentados por espertos en sus áreas...
 
 - [¿Cuáles son los softwares y herramientas de simulación más importantes para la Ciencia de los Materiales?](https://www.linkedin.com/advice/0/what-most-important-simulation-software-tools?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 [¿Cómo puedes ampliar tu experiencia en Ciencia de los Materiales con lenguajes de programación avanzados?](https://www.linkedin.com/advice/0/heres-how-you-can-expand-your-expertise-vd2sc?lang=es&originalSubdomain=es#:~:text=A%20continuaci%C3%B3n%2C%20te%20explicamos%20c%C3%B3mo%20puedes%20ampliar%20tu,es%20lo%20que%20hay%20que%20tener%20en%20cuenta)
