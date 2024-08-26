@@ -282,6 +282,8 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 ### Repositorios
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
 - [GNome](https://github.com/google-deepmind/materials_discovery)
+- [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 
 ### Articulos y otros links
 [GNome](https://github.com/google-deepmind/materials_discovery)
@@ -289,6 +291,8 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Paper published in Nature](https://www.nature.com/articles/s41586-023-06735-9)
 Tokenizer
 -[Si tienes curiosidad por ver cómo un texto se traduce en tokens, hay una herramienta de OpenAI llamada tokenizer.](https://platform.openai.com/tokenizer)
+- [W3SCHOOL HTML](https://www.w3schools.com/html/)
+
 <!-- 
 > [!WARNING]\
 > Estos son articulos generados por la inteligencia artificial de LinkedIn
