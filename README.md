@@ -291,11 +291,13 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
 - [GNome](https://github.com/google-deepmind/materials_discovery)
+- [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Articulos y otros links
 [Readme Typing SVG](https://readme-typing-svg.demolab.com/)
 
 [w3schools](https://w3schools.com/html/html_intro.asp)
+- [W3SCHOOL HTML](https://www.w3schools.com/html/)
 
 [mdn]
 - [Selectores](https://developer.mozilla.org/es/docs/Web/CSS/CSS_selectors)
