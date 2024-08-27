@@ -22,8 +22,12 @@ function encriptar(texto) {
             resultado += vocales[contadorVocal % 5];
             contadorVocal++;
             }
+        } else if (char === " ") {
+            // Mantener el espacio y reiniciar la secuencia de desplazamiento
+            resultado += char;
+            usarDesplazamiento2 = true; // Reiniciar secuencia después de un espacio
         } else {
-            // Si no es una letra, mantenerlo igual
+            // Si no es una letra ni un espacio, mantenerlo igual
             resultado += char;
         }
     }
@@ -53,6 +57,11 @@ function desencriptar(textoEncriptado) {
             } else {
                 i += 2;
             }
+        } else if (char === " ") {
+            // Mantener el espacio y reiniciar la secuencia de desplazamiento
+            resultado += char;
+            usarDesplazamiento2 = true; // Reiniciar secuencia después de un espacio
+            i++;
         } else {
             resultado += char;
             i++;
