@@ -7,13 +7,16 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <header>
+        <img class="header-logo" src="./" alt="Logo de Alura">
+        <h1 class="titulo">Encriptador de textos</h1>
+    </header>
     <div class="container">
-        <h1>Encriptador Secreto</h1>
         <div class="input-section">
             <textarea id="inputText" placeholder="Ingrese el texto aquí..."></textarea>
             <div class="buttons">
-                <button id="encryptBtn">Encriptar</button>
-                <button id="decryptBtn">Desencriptar</button>
+                <button id="encryptBtn" onclick="encriptar()">Encriptar</button>
+                <button id="decryptBtn" onclick="desencriptar()">Desencriptar</button>
             </div>
         </div>
         <div class="output-section">
@@ -21,6 +24,9 @@
             <button id="copyBtn">Copiar</button>
         </div>
     </div>
+    <footer>
+        <p>Andrés D. León Quesada - Alura - Oracle One G7 2024. &copy;</p>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>
