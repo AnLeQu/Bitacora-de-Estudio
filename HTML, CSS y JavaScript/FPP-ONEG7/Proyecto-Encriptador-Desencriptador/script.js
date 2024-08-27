@@ -51,9 +51,9 @@ function desencriptar(textoEncriptado) {
             // Alternar el desplazamiento entre -2 y -4
             usarDesplazamiento2 = !usarDesplazamiento2;
 
-            // Verificar si después del segundo carácter hay una vocal y saltarla
-            if (i + 2 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 2])) {
-                i += 3; // Saltar la vocal y el siguiente carácter
+            // Saltar la vocal si existe después del siguiente carácter
+            if (i + 1 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 1])) {
+                i += 2; // Saltar vocal
             } else {
                 i += 2;
             }
