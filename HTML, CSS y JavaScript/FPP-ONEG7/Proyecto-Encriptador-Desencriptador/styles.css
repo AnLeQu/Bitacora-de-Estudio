@@ -1,3 +1,5 @@
+@import url()
+
 :root{
     --color-primario: #E5E5E5;
     --color-secundario: #ffffff;
@@ -18,10 +20,10 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body {
+    box-sizing: border-box;
     font-family: Arial, sans-serif;
     background-color: var(--color-primario);
     display: flex;
@@ -33,9 +35,21 @@ body {
 .header{
     padding: 2.5rem 0 0 2.5rem;
 }
+.header__menu{
+    display: flex;
+    gap: 80px;
+}
+.header__menu__link{
+    font-family: var(--fuente-montserrat);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-terciaria);
+    text-decoration: none;
 
+}
 .header-logo{
     display: flex;
+    width: 50%;
     gap: 80px;
 }
 
@@ -104,6 +118,10 @@ footer {
     color: white;
     width: 100%;
     text-align: center;
+    text-align: center;
+    font-family: var();
+    font-size: var(--size-24px);
+    font-weight: 400;
 }
 /* ... (el resto del CSS) ... */
 
@@ -111,6 +129,14 @@ footer {
     .container {
         padding: 20px;
     }
+
+    .header{
+        padding: 10%;  
+   }
+
+   .header__menu{
+       justify-content: center;
+   }
 
     .buttons {
         flex-direction: column;
