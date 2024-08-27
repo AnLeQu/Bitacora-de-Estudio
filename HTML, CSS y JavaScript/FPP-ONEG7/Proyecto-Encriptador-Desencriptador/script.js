@@ -3,25 +3,25 @@ function encriptar(texto) {
     const vocales = "aeiou";
     let resultado = "";
     let contadorVocal = 0;
+    let usarDesplazamiento2 = true; // Alternar entre +2 y +4
 
     for (let i = 0; i < texto.length; i++) {
         let char = texto[i].toLowerCase();
 
         if (teclado.includes(char)) {
-            // Primer desplazamiento: sumar 2 en el teclado
+            // 
             let indice = teclado.indexOf(char);
-            let primerChar = teclado[(indice + 2) % teclado.length];
-            resultado += primerChar;
+            let desplazamiento = usarDesplazamiento2 ? 2 : 4;
+            let nuevoChar = teclado[(indice + desplazamiento) % teclado.length];
+            resultado += nuevoChar;
+            // Alternar el desplazamiento entre +2 y +4
+            usarDesplazamiento2 = !usarDesplazamiento2;
 
             // Añadir vocal solo si no es el último carácter de la palabra
             if (i < texto.length - 1 && teclado.includes(texto[i + 1].toLowerCase())) {
-                resultado += vocales[contadorVocal % 5];
-                contadorVocal++;
+            resultado += vocales[contadorVocal % 5];
+            contadorVocal++;
             }
-
-            // Segundo desplazamiento: sumar 4 en el teclado
-            let segundoChar = teclado[(indice + 4) % teclado.length];
-            resultado += segundoChar;
         } else {
             // Si no es una letra, mantenerlo igual
             resultado += char;
@@ -34,13 +34,21 @@ function desencriptar(textoEncriptado) {
     const teclado = "qwertyuiopasdfghjklñzxcvbnm";
     let resultado = "";
 
+    const teclado = "qwertyuiopasdfghjklñzxcvbnm";
+    let resultado = "";
+    let usarDesplazamiento2 = true; // Alternar entre -2 y -4
+
     for (let i = 0; i < textoEncriptado.length;) {
         let char = textoEncriptado[i];
 
         if (teclado.includes(char)) {
             let indice = teclado.indexOf(char);
-            let charOriginal = teclado[(indice - 2 + teclado.length) % teclado.length];
+            let desplazamiento = usarDesplazamiento2 ? -2 : -4;
+            let charOriginal = teclado[(indice + desplazamiento + teclado.length) % teclado.length];
             resultado += charOriginal;
+
+            // Alternar el desplazamiento entre -2 y -4
+            usarDesplazamiento2 = !usarDesplazamiento2;
 
             // Verificar si después del segundo carácter hay una vocal y saltarla
             if (i + 2 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 2])) {
@@ -51,7 +59,6 @@ function desencriptar(textoEncriptado) {
         } else {
             resultado += char;
             i++;
-        }
     }
 
     return resultado;
