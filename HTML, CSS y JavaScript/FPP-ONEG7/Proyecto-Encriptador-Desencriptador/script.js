@@ -51,11 +51,11 @@ function desencriptar(textoEncriptado) {
             // Alternar el desplazamiento entre -2 y -4
             usarDesplazamiento2 = !usarDesplazamiento2;
 
-            // Saltar la vocal si existe después del siguiente carácter
+            // Verificar si el siguiente carácter es una vocal y saltarlo
             if (i + 1 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 1])) {
-                i += 2; // Saltar vocal
+                i += 2; // Saltar la vocal y pasar al siguiente carácter
             } else {
-                i += 2;
+                i++; // No hay vocal, pasar al siguiente carácter
             }
         } else if (char === " ") {
             // Mantener el espacio y reiniciar la secuencia de desplazamiento
@@ -63,6 +63,7 @@ function desencriptar(textoEncriptado) {
             usarDesplazamiento2 = true; // Reiniciar secuencia después de un espacio
             i++;
         } else {
+            // Mantener caracteres que no están en el teclado
             resultado += char;
             i++;
     }
