@@ -28,3 +28,22 @@ function encriptar(texto) {
 
     return resultado;
 }
+function desencriptar(textoEncriptado) {
+    const teclado = "qwertyuiopasdfghjklñzxcvbnm";
+    let resultado = "";
+
+    for (let i = 0; i < textoEncriptado.length; i += 3) {
+        let primerChar = textoEncriptado[i];
+        
+        if (teclado.includes(primerChar)) {
+            let indice = teclado.indexOf(primerChar);
+            let charOriginal = teclado[(indice - 2 + teclado.length) % teclado.length];
+            resultado += charOriginal;
+        } else {
+            resultado += primerChar;
+            i -= 2; // Retroceder para manejar correctamente el siguiente caracter
+        }
+    }
+
+    return resultado;
+}
