@@ -13,9 +13,11 @@ function encriptar(texto) {
             let primerChar = teclado[(indice + 2) % teclado.length];
             resultado += primerChar;
 
-            // Vocal
-            resultado += vocales[contadorVocal % 5];
-            contadorVocal++;
+            // Añadir vocal solo si no es la última letra de la palabra
+            if (i < texto.length - 1 && teclado.includes(texto[i + 1].toLowerCase())) {
+                resultado += vocales[contadorVocal % 5];
+                contadorVocal++;
+            }
 
             // Segundo caracter: sumar 4 en el teclado
             let segundoChar = teclado[(indice + 4) % teclado.length];
@@ -32,16 +34,23 @@ function desencriptar(textoEncriptado) {
     const teclado = "qwertyuiopasdfghjklñzxcvbnm";
     let resultado = "";
 
-    for (let i = 0; i < textoEncriptado.length; i += 3) {
-        let primerChar = textoEncriptado[i];
+    for (let i = 0; i < textoEncriptado.length;) {
+        let char = textoEncriptado[i];
         
-        if (teclado.includes(primerChar)) {
-            let indice = teclado.indexOf(primerChar);
+        if (teclado.includes(char)) {
+            let indice = teclado.indexOf(char);
             let charOriginal = teclado[(indice - 2 + teclado.length) % teclado.length];
             resultado += charOriginal;
+            
+            // Saltar la vocal si existe
+            if (i + 1 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 1])) {
+                i += 2;
+            } else {
+                i++;
+            }
         } else {
-            resultado += primerChar;
-            i -= 2; // Retroceder para manejar correctamente el siguiente caracter
+            resultado += char;
+            i++;
         }
     }
 
