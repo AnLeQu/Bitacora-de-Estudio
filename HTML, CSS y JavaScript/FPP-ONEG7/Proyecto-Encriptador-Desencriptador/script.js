@@ -14,7 +14,9 @@ function encriptar(texto) {
             resultado += primerChar;
 
             // Añadir vocal solo si no es la última letra de la palabra
-            if (i < texto.length - 1 && teclado.includes(texto[i + 1].toLowerCase())) {
+            if (i > 0 && i < texto.length - 1 && 
+                teclado.includes(texto[i - 1].toLowerCase()) && 
+                teclado.includes(texto[i + 1].toLowerCase())) {
                 resultado += vocales[contadorVocal % 5];
                 contadorVocal++;
             }
@@ -43,10 +45,10 @@ function desencriptar(textoEncriptado) {
             resultado += charOriginal;
             
             // Saltar la vocal si existe
-            if (i + 1 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 1])) {
-                i += 2;
+            if (i + 2 < textoEncriptado.length && "aeiou".includes(textoEncriptado[i + 2])) {
+                i += 3;
             } else {
-                i++;
+                i += 2;
             }
         } else {
             resultado += char;
