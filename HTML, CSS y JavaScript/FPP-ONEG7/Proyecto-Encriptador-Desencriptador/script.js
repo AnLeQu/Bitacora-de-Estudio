@@ -33,9 +33,6 @@ function encriptar(texto) {
 function desencriptar(textoEncriptado) {
     const teclado = "qwertyuiopasdfghjklñzxcvbnm";
     let resultado = "";
-
-    const teclado = "qwertyuiopasdfghjklñzxcvbnm";
-    let resultado = "";
     let usarDesplazamiento2 = true; // Alternar entre -2 y -4
 
     for (let i = 0; i < textoEncriptado.length;) {
@@ -60,9 +57,10 @@ function desencriptar(textoEncriptado) {
             resultado += char;
             i++;
     }
-
+}
     return resultado;
 }
+
 
 document.addEventListener('DOMContentLoaded', function() {
     const inputText = document.getElementById('inputText');
