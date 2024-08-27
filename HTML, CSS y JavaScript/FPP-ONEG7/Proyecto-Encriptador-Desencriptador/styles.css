@@ -25,37 +25,30 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-    box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
     background-color: var(--color-primario);
-    display: flex;
-    justify-content: center;
+    display: flex ;
     align-items: center;
     min-height: 100vh;
     padding: 20px;
+    justify-content: space-between;
+    flex-direction: column;
 }
 .header{
     padding: 2.5rem 0 0 2.5rem;
 }
-.header__menu{
-    display: flex;
-    gap: 80px;
-}
-.header__menu__link{
-    font-family: var(--font-ibm);
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: var(--color-terciaria);
-    text-decoration: none;
 
-}
 .header-logo{
     display: flex;
-    width: 50%;
+    width: 10%;
     gap: 80px;
+    justify-content: center;
+    border: 2px solid var(--color-terciaria);
+    border-radius: 8px;
 }
 
 .container {
@@ -117,15 +110,46 @@ button:hover {
     margin-bottom: 20px;
 } 
 
+.info-redes{
+    font-family: var(--font-ibm);
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.enlaces{
+    font-family: var(--font-ibm);
+    font-weight: 400;
+    font-size: var(--size-16px);
+}
+
+.enlaces-link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid var(--color-terciaria);
+    width: 20%;
+    text-align: center;
+    border-radius: 8px;
+    font-size: var(--size-16px);
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: var(--color-secundaria);
+    font-family: var(--font-signika);
+}
+
+.enlaces-link:hover{
+  background-color: var(--color-hover);
+}
+
 footer {
     padding: 10px;
     background-color: var(--color-advertencias);
-    color: var(--color-terciario);
+    color: var(--color-secundario);
     width: 100%;
     text-align: center;
-    text-align: center;
-    font-family: var();
-    font-size: var(--size-24px);
+    font-family: var(--font-signika);
+    font-size: var(--size-8px);
     font-weight: 400;
 }
 /* ... (el resto del CSS) ... */
@@ -137,10 +161,6 @@ footer {
 
     .header{
         padding: 10%;  
-   }
-
-   .header__menu{
-       justify-content: center;
    }
 
     .buttons {
