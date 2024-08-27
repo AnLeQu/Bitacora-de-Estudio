@@ -37,26 +37,22 @@ body {
     min-height: 100vh;
     padding: 20px;
 }
-.header{
-    padding: 2.5rem 0 0 2.5rem;
-}
-.header__menu{
+.header {
     display: flex;
-    gap: 80px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.5rem 20px 0 20px; /* Ajuste de padding para centrar verticalmente */
 }
-.header__menu__link{
-    font-family: var(--font-ibm);
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: var(--color-terciaria);
-    text-decoration: none;
 
-}
-.header-logo{
+.header__menu {
     display: flex;
-    width: 50%;
-    gap: 80px;
+    gap: 20px; /* Espaciado entre elementos del menú */
 }
+
+.header-logo {
+    width: auto; /* Ajuste automático del tamaño del logo */
+}
+
 
 .container {
     background-color: var(--color-secundario);
@@ -118,13 +114,14 @@ button:hover {
 } 
 
 footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     padding: 10px;
     background-color: var(--color-advertencias);
     color: var(--color-terciario);
-    width: 100%;
     text-align: center;
-    text-align: center;
-    font-family: var();
     font-size: var(--size-24px);
     font-weight: 400;
 }
@@ -135,14 +132,14 @@ footer {
         padding: 20px;
     }
 
-    .header{
-        padding: 10%;  
-   }
+    .header {
+        padding: 10px 20px; /* Ajuste de padding para dispositivos móviles */
+    }
 
-   .header__menu{
-       justify-content: center;
-   }
-
+    .header__menu {
+        justify-content: center; /* Centrar los elementos del menú en dispositivos móviles */
+    }
+}
     .buttons {
         flex-direction: column;
     }
