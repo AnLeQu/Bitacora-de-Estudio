@@ -38,18 +38,22 @@ body {
     justify-content: space-between;
     flex-direction: column;
 }
-.header{
-    padding: 2.5rem 0 0 2.5rem;
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.5rem 20px 0 20px; /* Ajuste de padding para centrar verticalmente */
 }
 
-.header-logo{
+.header__menu {
     display: flex;
-    width: 10%;
-    gap: 80px;
-    justify-content: center;
-    border: 2px solid var(--color-terciaria);
-    border-radius: 8px;
+    gap: 20px; /* Espaciado entre elementos del menú */
 }
+
+.header-logo {
+    width: auto; /* Ajuste automático del tamaño del logo */
+}
+
 
 .container {
     background-color: var(--color-secundario);
@@ -143,13 +147,15 @@ button:hover {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     padding: 10px;
     background-color: var(--color-advertencias);
-    color: var(--color-secundario);
-    width: 100%;
+    color: var(--color-terciario);
     text-align: center;
-    font-family: var(--font-signika);
-    font-size: var(--size-8px);
+    font-size: var(--size-24px);
     font-weight: 400;
 }
 /* ... (el resto del CSS) ... */
@@ -159,10 +165,14 @@ footer {
         padding: 20px;
     }
 
-    .header{
-        padding: 10%;  
-   }
+    .header {
+        padding: 10px 20px; /* Ajuste de padding para dispositivos móviles */
+    }
 
+    .header__menu {
+        justify-content: center; /* Centrar los elementos del menú en dispositivos móviles */
+    }
+}
     .buttons {
         flex-direction: column;
     }
