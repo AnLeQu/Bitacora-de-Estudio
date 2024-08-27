@@ -1,3 +1,4 @@
+let texto = textarea.value.trim();
 function encriptar(texto) {
     const teclado = "qwertyuiopasdfghjklñzxcvbnm";
     const vocales = "aeiou";
@@ -47,3 +48,10 @@ function desencriptar(textoEncriptado) {
 
     return resultado;
 }
+
+let textoOriginal = prompt("")
+let textoEncriptado = encriptar(textoOriginal)
+console.log(textoEncriptado)
+
+let textoDesencriptado = desencriptar(textoOriginal)
+console.log(textoDesencriptado)
