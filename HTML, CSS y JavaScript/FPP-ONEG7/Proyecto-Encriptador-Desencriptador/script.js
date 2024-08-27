@@ -1,4 +1,3 @@
-let texto = textarea.value.trim();
 function encriptar(texto) {
     const teclado = "qwertyuiopasdfghjklñzxcvbnm";
     const vocales = "aeiou";
@@ -49,9 +48,28 @@ function desencriptar(textoEncriptado) {
     return resultado;
 }
 
-let textoOriginal = prompt("")
-let textoEncriptado = encriptar(textoOriginal)
-console.log(textoEncriptado)
+document.addEventListener('DOMContentLoaded', function() {
+    const inputText = document.getElementById('inputText');
+    const outputText = document.getElementById('outputText');
+    const encryptBtn = document.getElementById('encryptBtn');
+    const decryptBtn = document.getElementById('decryptBtn');
+    const copyBtn = document.getElementById('copyBtn');
 
-let textoDesencriptado = desencriptar(textoOriginal)
-console.log(textoDesencriptado)
+    encryptBtn.addEventListener('click', function() {
+        const texto = inputText.value;
+        const textoEncriptado = encriptar(texto);
+        outputText.value = textoEncriptado;
+    });
+
+    decryptBtn.addEventListener('click', function() {
+        const textoEncriptado = inputText.value;
+        const textoDesencriptado = desencriptar(textoEncriptado);
+        outputText.value = textoDesencriptado;
+    });
+
+    copyBtn.addEventListener('click', function() {
+        outputText.select();
+        document.execCommand('copy');
+        alert('Texto copiado al portapapeles');
+    });
+});
