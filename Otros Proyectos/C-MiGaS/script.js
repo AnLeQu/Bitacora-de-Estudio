@@ -1,39 +1,93 @@
-function encriptarTexto() {
-    const inputText = document.getElementById("inputText").value;
+const inputField = document.querySelector(".presentacion__contenido__input");
+const outputText = document.getElementById("outputText");
+const placeholderImg = document.getElementById("placeholderImage");
+const copyBtn = document.getElementById("copyButton");
 
-    let encriptado = inputText
-        .replace(/a/g, "mich")
-        .replace(/e/g, "elle")
-        .replace(/i/g, "gal")
-        .replace(/o/g, "arza")
-        .replace(/u/g, "s...");
-    
-    encriptado = encriptado
-        .replace(/A/g, "Mich")
-        .replace(/E/g, "Elle")
-        .replace(/I/g, "Gal")
-        .replace(/O/g, "Arza")
-        .replace(/U/g, "S. ");
-    
-    document.getElementById("outputText").value = encriptado;
+function encrypt(text) {
+    return text
+        .replace(/e/g, 'echo')
+        .replace(/i/g, 'india')
+        .replace(/a/g, 'alpha')
+        .replace(/o/g, 'oscar')
+        .replace(/u/g, 'uniform');
 }
 
-function desencriptarTexto() {
-    const inputText = document.getElementById("inputText").value;
+function decrypt(text) {
+    return text
+        .replace(/echo/g, 'e')
+        .replace(/india/g, 'i')
+        .replace(/alpha/g, 'a')
+        .replace(/oscar/g, 'o')
+        .replace(/uniform/g, 'u');
+}
 
-    let desencriptado = inputText
-        .replace(/mich/g, "a")
-        .replace(/elle/g, "e")
-        .replace(/gal/g, "i")
-        .replace(/arza/g, "o")
-        .replace(/s\.\ /g, "u");
-    
-    desencriptado = desencriptado
-        .replace(/Mich/g, "A")
-        .replace(/Elle/g, "E")
-        .replace(/Gal/g, "I")
-        .replace(/Arza/g, "O")
-        .replace(/S\.\ /g, "U");
-    
-    document.getElementById("outputText").value = desencriptado;
+function encryptText() {
+    let text = inputField.value.trim();
+
+    // Verifica si hay caracteres inválidos
+    if (/[^a-z\s]/.test(text)) {
+        outputText.textContent = 'El texto solo puede contener letras minúsculas y espacios.';
+        placeholderImg.style.display = 'block';
+        copyBtn.style.display = 'none';
+        inputField.value = "";
+        return;
+    }
+
+    const encryptedText = encrypt(text);
+
+    if (text === '') {
+        placeholderImg.style.display = 'block';
+        outputText.textContent = 'No se encontró ningún mensaje';
+        copyBtn.style.display = 'none';
+    } else {
+        placeholderImg.style.display = 'none';
+        outputText.textContent = encryptedText;
+        copyBtn.style.display = 'block';
+    }
+
+    inputField.value = "";
+}
+
+function decryptText() {
+    let text = inputField.value.trim();
+
+    // Verifica si hay caracteres inválidos
+    if (/[^a-z\s]/.test(text)) {
+        outputText.textContent = 'El texto solo puede contener letras minúsculas y espacios.';
+        placeholderImg.style.display = 'block';
+        copyBtn.style.display = 'none';
+        inputField.value = "";
+        return;
+    }
+
+    const decryptedText = decrypt(text);
+
+    if (text === '') {
+        placeholderImg.style.display = 'block';
+        outputText.textContent = 'No se encontró ningún mensaje';
+        copyBtn.style.display = 'none';
+    } else {
+        placeholderImg.style.display = 'none';
+        outputText.textContent = decryptedText;
+        copyBtn.style.display = 'block';
+    }
+
+    inputField.value = "";
+}
+
+function copyToClipboard() {
+    const textToCopy = outputText.textContent;
+
+    navigator.clipboard.writeText(textToCopy)
+        .then(() => {
+            outputText.textContent = 'No se encontró ningún mensaje';
+            placeholderImg.style.display = 'block';
+            copyBtn.style.display = 'none';
+            alert("Texto copiado al portapapeles");
+
+            inputField.value = textToCopy;
+        })
+        .catch(err => {
+            console.error('Error al copiar el texto: ', err);
+        });
 }
