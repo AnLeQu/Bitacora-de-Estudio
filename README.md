@@ -204,6 +204,14 @@ Lógica de programación: explorar funciones y listas</a></td>
 <img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
 </p>
 
+<!-- idea:poner tipo un código  de como hacer pull, push, clonar repositorio y para que sirve exactamente
+Ejemplo:
+```bash
+git clone <URL del Repositorio>
+cd AnLeQu
+El git clone tal como dice su nombre su función es clonar el repositorio....
+-->
+
 <!--
 <table>
   <thead>
