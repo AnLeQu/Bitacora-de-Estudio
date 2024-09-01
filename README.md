@@ -384,6 +384,7 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 -->
 
 ### Repositorios
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) 
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
 - [GNome](https://github.com/google-deepmind/materials_discovery)
