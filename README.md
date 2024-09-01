@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+# 📝 Registro de Progreso en Programación
+
+Este repositorio es un registro de mi aprendizaje en diferentes lenguajes de programación y conceptos relacionados. Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, y aquellos que puedan ofrecer [comentarios o sugerencias](#contacto) para mejorar durante este proceso.
+
 # Contenido
 - [De qué trata esto](#de-qué-trata-esto)
 - [Formación de Principiantes en Programación](#fpp-oneg7)
@@ -17,24 +21,29 @@
 - [Contacto](#Contacto)
 - [Fuentes](#fuentes)
 
-# ¿De qué trata esto?
-Este repositorio de GitHub es un registro mi progreso de aprendizaje en diferentes lenguajes de programación y conceptos que son de utilidad durante este camino. Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, así como a aquellos que puedan ofrecer [comentarios o sugerencias](#contacto) para mejorar durante este proceso.
+# 🧐 ¿De qué trata esto?
+Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi progreso en el aprendizaje de programación y conceptos relacionados. Aquí podrás encontrar proyectos, tareas y apuntes que reflejan el camino recorrido. Mi objetivo es documentar mi proceso durante los 7 meses del curso FPP-ONEG7 y otros estudios.
 
-# FPP-ONEG7
- Formación de Principiantes en Programación atraves del programa ONE. 
+## HTML, CSS y JavaScript
 
-
-- Logica de programación: sumérgete en la programación con JavaScript.
-Es una guía básica inicial para quien desea entrar en el universo de programación y comenzar con la creación de páginas web utilizando los lenguajes populares de HTML, CSS y JavaScript
-
-- Mientras voy aprendiendo decidí que dejaría este registro para ver mi avance durante los 7 meses que dura este curso... Así que pronto estará lleno de trabajos y tareas.
-
-### HTML, CSS y JavaScript
 <p align="center">
-<img alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
+<img wight="10%" alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
 
-<!--[Proyecto]( )-->
+### Temas Cubiertos
+- Logica de programación: sumérgete en la programación con JavaScript.
+Es una guía básica inicial para quien desea entrar en el universo de programación y comenzar con la creación de páginas web utilizando los lenguajes populares de HTML, CSS y JavaScript
+- Lógica de programación: explorar funciones y listas
+- Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags
+- Curso de HTML y CSS: Clases, Posicionamiento y Flexbox
+- Curso de HTML y CSS: header, footer y variables CSS
+- Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos
+
+### Recursos
+- FPP-ONEG7
+ Formación de Principiantes en Programación atraves del programa ONE. 
+
+### Proyectos
 <table>
   <thead>
     <tr>
@@ -62,8 +71,6 @@ Lógica de programación: explorar funciones y listas</a></td>
         </ul>
       </td>
     </tr>
-
-<!--
     <tr>
       <td><a href="   ">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></td>
         <td>
@@ -105,11 +112,14 @@ Lógica de programación: explorar funciones y listas</a></td>
       </td>
     </tr>
     <tr>
-El espacio es para llenar con lo que hace falta-->
+<!--El espacio es para llenar con lo que hace falta-->
   </tbody>
 </table>
 
-### Git y Github
+## Git y Github
+
+### Temas Cubiertos
+
 <p align="center">
 <img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
 </p>
@@ -181,6 +191,12 @@ El espacio es para llenar con lo que hace falta-->
 </table>
 
 # Python
+<!--
+```python
+def mi_funcion():
+    return "Hola, a todos!"
+```
+-->
 <p align="center">
 <img alt="Logo de python" src="/Otros Proyectos/img/Python.png">
 </p>
