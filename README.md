@@ -54,7 +54,6 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
   <table>
     <tbody>
       <tr>
-        <td></td>
         <td><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Carpeta del Proyecto</a></td>
       </tr>
   </tbody>
