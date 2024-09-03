@@ -30,8 +30,6 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 <img wight="10%" alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
 
-<div align="center">
-    <h2 id="Proyecto">Projectos<!--<img src="" width="3%"/>--></h2>
 <details>
 <summary>Temas Cubiertos</summary>
 
@@ -47,7 +45,7 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 ### Recursos
 - FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
- 
+
 </details>
 </div>
 
