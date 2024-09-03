@@ -27,11 +27,11 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 
 # Programación <img src="/HTML, CSS y JavaScript/assets/code.png" width="3%"/>
 
-## HTML, CSS y JavaScript
+## HTML, CSS y JavaScript <img src="/HTML, CSS y JavaScript/assets/folder.png" width="3%"/>
 
-<p align="center">
+<!--<p align="center">
 <img wight="10%" alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
-</p>
+</p>-->
 
 ### Recursos
 - FPP-ONEG7
@@ -265,13 +265,9 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
 </details>
 </div>
 
-## Git y Github
+## Git y Github <img src="/HTML, CSS y JavaScript/assets/branch.png" width="3%"/>
 
 ### Temas Cubiertos
-
-<p align="center">
-<img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
-</p>
 
 <!-- idea:poner tipo un código  de como hacer pull, push, clonar repositorio y para que sirve exactamente
 Ejemplo:
@@ -280,6 +276,10 @@ git clone <URL del Repositorio>
 cd AnLeQu
 El git clone tal como dice su nombre su función es clonar el repositorio....
 -->
+
+<!--<p align="center">
+<img alt="Logos de git y GitHub" src="/Otros Proyectos/img/Sin título 2.png">
+</p>-->
 
 <!--
 <table>
@@ -342,7 +342,7 @@ El git clone tal como dice su nombre su función es clonar el repositorio....
   </tbody>
 </table>
 
-# Python
+# Python <img src="/HTML, CSS y JavaScript/assets/python.png" width="3%"/>
 <!--
 ```python
 def mi_funcion():
