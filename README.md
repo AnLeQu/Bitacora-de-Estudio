@@ -44,6 +44,7 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
  Formación de Principiantes en Programación atraves del programa ONE. 
 
 ### Proyectos
+<div>
 <table>
   <tbody>
     <tr>
@@ -51,12 +52,13 @@ Es una guía básica inicial para quien desea entrar en el universo de programac
 Lógica de programación: sumérgete en la programación con JavaScript</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/FPP01-Project.js">Código del Proyecto FPP #1</a></li> 
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Código del Proyecto</a></li> 
         </ul>
       </td>
     </tr>
  </tbody>
 </table>
+</div>
       
 ```javascript
 //Variables
@@ -146,7 +148,7 @@ while (NumeroDeUsuario != NumeroSecreto)
 Lógica de programación: explorar funciones y listas</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones/FPP2-Project.js">Código del Proyecto FPP #2</a></li>
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones">Código del Proyecto FPP #2</a></li>
           <li><a href="     ">Visualización Proyecto FPP #2</a></li> <!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
         </ul>
       </td>
@@ -154,25 +156,31 @@ Lógica de programación: explorar funciones y listas</a></td>
   </tbody>
 </table>
 </div>
+
+![Juego]()
+
 <div>
 <table>
   <tbody>
     <tr>
-      <td><a href="   ">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></td>
+      <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-desarrollo-estructura-archivos-tags/certificate">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></td>
         <td>
           <ul>
-            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>  
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Código del Proyecto</a></li>  
           </ul>
         </td>
       </tr>
   </tbody>
 </table>
 </div>
+
+![HTML]()
+
 <div>
 <table>
   <tbody>
     <tr>
-      <td><a href="   ">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></td>
+      <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-clases-posicionamiento-flexbox/certificate">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></td>
         <td>
           <ul>
             <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
@@ -182,11 +190,14 @@ Lógica de programación: explorar funciones y listas</a></td>
     </tbody>
 </table>
 </div>
+
+![HTML]()
+
 <div>
 <table>
   <tbody>
     <tr>
-      <td><a href="   ">Curso de HTML y CSS: header, footer y variables CSS</a></td>
+      <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-header-footer-variables-css/certificate">Curso de HTML y CSS: header, footer y variables CSS</a></td>
         <td>
           <ul>
             <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
@@ -196,11 +207,14 @@ Lógica de programación: explorar funciones y listas</a></td>
   </tbody>
 </table>
 </div>
+
+![HTML]()
+
 <div>
 <table>
   <tbody>
     <tr>
-      <td><a href="   ">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></td>
+      <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-trabajando-responsividad-publicacion-proyectos/certificate">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></td>
         <td>
           <ul>
             <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
@@ -210,6 +224,9 @@ Lógica de programación: explorar funciones y listas</a></td>
   </tbody>
 </table>
 </div>
+
+![HTML]()
+
 <div>
 <table>
   <tbody>
