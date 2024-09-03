@@ -37,6 +37,8 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 - FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
 
+<div align="center">
+
 | Curso                                                                  |
 | ---------------------------------------------------------------------- |
 |- Logica de programación: sumérgete en la programación con JavaScript.  |
@@ -46,6 +48,7 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 | - Curso de HTML y CSS: header, footer y variables CSS |
 | - Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos |
 
+</div>
 <!-- Proyectos -->
 <div>
     <h1 id="Project-HTML-CSS-JS">Projectos<img src="/HTML, CSS y JavaScript/assets/project.png" width="3%"/></h1>
