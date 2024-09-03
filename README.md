@@ -30,7 +30,11 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 <img wight="10%" alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
 
-### Temas Cubiertos
+<div align="center">
+    <h2 id="Proyecto">Projectos<!--<img src="" width="3%"/>--></h2>
+<details>
+<summary>Temas Cubiertos</summary>
+
 | Curso                                                                 | Descripción                      |
 | ---------------------------------------------------------------------- | -------------------------------- |
 |- Logica de programación: sumérgete en la programación con JavaScript. | Es una guía básica inicial para quien desea entrar en el universo de programación y comenzar con la creación de páginas web utilizando los lenguajes populares de HTML, CSS y JavaScript |
@@ -43,6 +47,9 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 ### Recursos
 - FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
+ 
+</details>
+</div>
 
 <!-- Proyectos -->
 <div align="center">
