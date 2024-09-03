@@ -60,6 +60,9 @@ Lógica de programación: sumérgete en la programación con JavaScript</a></td>
 </table>
 </div>
       
+<details>
+<summary>Código</summary>
+
 ```javascript
 //Variables
 let NMaxPosible = prompt("Elija una cantiadad de numeros con las que jugaras:")
@@ -140,6 +143,7 @@ while (NumeroDeUsuario != NumeroSecreto)
     }
 }
 ```
+</details>
 
 <table>
   <tbody>
@@ -148,8 +152,7 @@ while (NumeroDeUsuario != NumeroSecreto)
 Lógica de programación: explorar funciones y listas</a></td>
       <td>
         <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones">Código del Proyecto FPP #2</a></li>
-          <li><a href="     ">Visualización Proyecto FPP #2</a></li> <!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones">Código del Proyecto FPP #2</a></li><!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
         </ul>
       </td>
     </tr>
@@ -230,10 +233,40 @@ Lógica de programación: explorar funciones y listas</a></td>
   </tbody>
 </table>
 </div>
+<details>
+<summary>Código</summary>
 
-```html
+```css
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
+
+:root {
+    --color-primaria: #000000;
+    --color-secundaria: #F6F6F6;
+    --color-terciaria: #22D4FD;
+    --color-hover: #272727;
+
+    --fuente-krona: 'Krona One', sans-serif;
+    --fuente-montserrat: 'Montserrat', sans-serif;
+}
+
+* {
+    padding: 0;
+    margin:0;
+}
+
+body{
+    box-sizing: border-box;
+    background-color: var(--color-primaria);
+    color: var(--color-secundaria);
+}
+
+.header{
+    padding: 2% 0% 0% 15%;
+}
 ```
+
+</details>
 
 <div>
 <table>
@@ -242,7 +275,6 @@ Lógica de programación: explorar funciones y listas</a></td>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/challenge-encriptador-texto/certificate">Prácticando lógica de programación: Challenge Encriptador de texto</a></td>
     </tr>
     <tr>
-<!--El espacio es para llenar con lo que hace falta-->
   </tbody>
 </table>
 </div>
@@ -258,7 +290,7 @@ Lógica de programación: explorar funciones y listas</a></td>
   </tbody>
 </table>
 </div>
-
+<!--El espacio es para llenar con lo que hace falta-->
 
 ## Git y Github
 
