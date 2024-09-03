@@ -174,7 +174,9 @@ Lógica de programación: explorar funciones y listas</a></td>
 </table>
 </div>
 
-![HTML]()
+```html
+
+```
 
 <div>
 <table>
@@ -183,7 +185,7 @@ Lógica de programación: explorar funciones y listas</a></td>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-clases-posicionamiento-flexbox/certificate">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></td>
         <td>
           <ul>
-            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/4-HTML y CSS - Clases, Posicionamiento y Flexbox/">Código del Proyecto    </a></li>    
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/4-HTML y CSS - Clases, Posicionamiento y Flexbox/">Código del Proyecto</a></li>    
           </ul>
         </td>
       </tr>
@@ -191,7 +193,9 @@ Lógica de programación: explorar funciones y listas</a></td>
 </table>
 </div>
 
-![HTML]()
+```html
+
+```
 
 <div>
 <table>
@@ -208,7 +212,9 @@ Lógica de programación: explorar funciones y listas</a></td>
 </table>
 </div>
 
-![HTML]()
+```html
+
+```
 
 <div>
 <table>
@@ -217,7 +223,7 @@ Lógica de programación: explorar funciones y listas</a></td>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-trabajando-responsividad-publicacion-proyectos/certificate">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></td>
         <td>
           <ul>
-            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/6-HTML y CSS - trabajando con responsividad y publicación de proyectos/">Código del Proyecto    </a></li>    
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/6-HTML y CSS - trabajando con responsividad y publicación de proyectos/">Código del Proyecto</a></li>    
           </ul>
         </td>
     </tr>
@@ -225,18 +231,15 @@ Lógica de programación: explorar funciones y listas</a></td>
 </table>
 </div>
 
-![HTML]()
+```html
+
+```
 
 <div>
 <table>
   <tbody>
     <tr>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/challenge-encriptador-texto/certificate">Prácticando lógica de programación: Challenge Encriptador de texto</a></td>
-        <td>
-         <ul>
-           <li><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Proyecto</a></li> 
-        </ul>
-      </td>
     </tr>
     <tr>
 <!--El espacio es para llenar con lo que hace falta-->
@@ -245,6 +248,17 @@ Lógica de programación: explorar funciones y listas</a></td>
 </div>
 
 ![Encriptador](/HTML,%20CSS%20y%20JavaScript/assets/Encriptador.png)
+
+<div>
+<table>
+  <tbody>
+    <tr>
+        <td><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 ## Git y Github
 
