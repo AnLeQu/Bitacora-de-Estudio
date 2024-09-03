@@ -10,17 +10,23 @@ Este repositorio es un registro de mi aprendizaje en diferentes lenguajes de pro
 
 # Contenido
 - [De qué trata esto](#de-qué-trata-esto)
-- [Formación de Principiantes en Programación](#fpp-oneg7)
-    - [HTML-CSS-JavaScript](#html-css-y-javascript)
-      - [Proyectos HTML-CSS-JS](#Project-HTML-CSS-JS)
-    - [Git y Github](#git-y-github)
-- [CIM](#cim) <!--[TAMA](#--) -->
+- [Programación](#programación)
+  - [HTML-CSS-JavaScript](#html-css-y-javascript)
+    - [Conceptos] (#)
+    - [Proyectos HTML-CSS-JS](#Project-HTML-CSS-JS)
+  - [Git y Github](#git-y-github)
+    - [Comandos](#)
+<!-- [CIM](#cim) y [TAMA](#--) -->
   - [IA - Data Science](#ia-y-data-science)
   - [Python](#Python)
+      - [Conceptos] (#)
+      - [Proyectos py](#Project-py)
   - [Excel](#Excel)
     - [Estadística y Probabilidad](#probabilidad-y-estadistica-en-exel-y-google-sheets)
 - [Contacto](#Contacto)
 - [Fuentes](#fuentes)
+  - [Repositorios](#)
+  - [Articulos y links](#)
 
 # 🧐 ¿De qué trata esto?
 Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi progreso en el aprendizaje de programación y conceptos relacionados. Aquí podrás encontrar proyectos, tareas y apuntes que reflejan el camino recorrido. Mi objetivo es documentar mi proceso durante los 7 meses del curso FPP-ONEG7 y otros estudios.
@@ -480,6 +486,7 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 -->
 
 ### Repositorios
+- [Para aprender programación prácticando](https://github.com/practical-tutorials/project-based-learning)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) 
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
 - [Genetifics](https://github.com/NathalyDM/genetifics) sirvio de inspiración para este mismo repositorio.
@@ -487,6 +494,8 @@ En vez de videos voy a dejar canales que recomiendo y que han sido recursos dura
 - [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Articulos y otros links
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
+
 [Readme Typing SVG](https://readme-typing-svg.demolab.com/)
 
 [w3schools](https://w3schools.com/html/html_intro.asp)
