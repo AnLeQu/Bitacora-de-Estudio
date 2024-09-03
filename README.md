@@ -44,25 +44,22 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 - FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
 
-### Proyectos
-<div>
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://app.aluracursos.com/certificate/88d50ad9-7900-4335-8b38-f071ba9fedb9?lang">Curso de
-Lógica de programación: sumérgete en la programación con JavaScript</a></td>
-      <td>
-        <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Código del Proyecto</a></li> 
-        </ul>
-      </td>
-    </tr>
- </tbody>
-</table>
-</div>
-      
+<!-- Proyectos -->
+<div align="center">
+    <h2 id="Proyecto">Education<!--<img src="" width="3%"/>--></h2>
 <details>
-<summary>Código</summary>
+<summary><a href="https://app.aluracursos.com/certificate/88d50ad9-7900-4335-8b38-f071ba9fedb9?lang">Curso de
+  Lógica de programación: sumérgete en la programación con JavaScript</a></summary>
+  <div>
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Carpeta del Proyecto</a></td>
+      </tr>
+  </tbody>
+  </table>
+  </div>
 
 ```javascript
 //Variables
@@ -145,6 +142,7 @@ while (NumeroDeUsuario != NumeroSecreto)
 }
 ```
 </details>
+</div>
 
 <table>
   <tbody>
