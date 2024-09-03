@@ -25,6 +25,8 @@ Este repositorio es un registro de mi aprendizaje en diferentes lenguajes de pro
 # 🧐 ¿De qué trata esto?
 Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi progreso en el aprendizaje de programación y conceptos relacionados. Aquí podrás encontrar proyectos, tareas y apuntes que reflejan el camino recorrido. Mi objetivo es documentar mi proceso durante los 7 meses del curso FPP-ONEG7 y otros estudios.
 
+# Programación
+
 ## HTML, CSS y JavaScript
 
 <p align="center">
@@ -46,7 +48,7 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 
 <!-- Proyectos -->
 <div>
-    <h1 id="Project-HTML-CSS-JS">Projectos<!--<img src="" width="3%"/>--></h1>
+    <h1 id="Project-HTML-CSS-JS">Projectos<img src="/HTML, CSS y JavaScript/assets/project.png" width="3%"/></h1>
 </div>
 <div align="center">
 <details>
