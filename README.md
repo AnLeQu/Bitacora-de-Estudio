@@ -12,6 +12,7 @@ Este repositorio es un registro de mi aprendizaje en diferentes lenguajes de pro
 - [De qué trata esto](#de-qué-trata-esto)
 - [Formación de Principiantes en Programación](#fpp-oneg7)
     - [HTML-CSS-JavaScript](#html-css-y-javascript)
+      - [Proyectos HTML-CSS-JS](#Project-HTML-CSS-JS)
     - [Git y Github](#git-y-github)
 - [CIM](#cim) <!--[TAMA](#--) -->
   - [IA - Data Science](#ia-y-data-science)
@@ -29,8 +30,6 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 <p align="center">
 <img wight="10%" alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
-<details align="center">
-<summary>Temas Cubiertos</summary>
 
 | Curso                                                                 | Descripción                      |
 | ---------------------------------------------------------------------- | -------------------------------- |
@@ -45,12 +44,9 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 - FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
 
-</details>
-</div>
-
 <!-- Proyectos -->
-<div align="center">
-    <h1 id="Proyecto">Projectos<!--<img src="" width="3%"/>--></h1>
+<div>
+    <h1 id="Project-HTML-CSS-JS">Projectos<!--<img src="" width="3%"/>--></h1>
 <details>
 <summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Curso de
   Lógica de programación: sumérgete en la programación con JavaScript</a></h2></summary>
