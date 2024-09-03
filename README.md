@@ -401,10 +401,12 @@ def mi_funcion():
   </tbody>
 </table>
 
-# Excel
+# Excel <img src="/HTML, CSS y JavaScript/assets/office365.png" width="3%"/>
+<!--
 <p align="center">
 <img alt="Logo de Excel" src="">
 </p>
+-->
 
 > [!IMPORTANT]\
 > Los proyectos compartidos no son visibles dentro de GitHub por el formato de Excel, proximamente habilitaré un link para su vizualización 
