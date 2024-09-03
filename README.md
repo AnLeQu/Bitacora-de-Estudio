@@ -31,18 +31,18 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 <img wight="10%" alt="Logos de HTML, CSS y JS" src="/Otros Proyectos/img/Sin título.png">
 </p>
 
-| Curso                                                                 | Descripción                      |
-| ---------------------------------------------------------------------- | -------------------------------- |
-|- Logica de programación: sumérgete en la programación con JavaScript. | Es una guía básica inicial para quien desea entrar en el universo de programación y comenzar con la creación de páginas web utilizando los lenguajes populares de HTML, CSS y JavaScript |
-| - Lógica de programación: explorar funciones y listas | - |
-| - Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags | - |
-| - Curso de HTML y CSS: Clases, Posicionamiento y Flexbox | - |
-| - Curso de HTML y CSS: header, footer y variables CSS | - |
-| - Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos | - |
-
 ### Recursos
 - FPP-ONEG7
  Formación de Principiantes en Programación atraves del programa ONE. 
+
+| Curso                                                                  |
+| ---------------------------------------------------------------------- |
+|- Logica de programación: sumérgete en la programación con JavaScript.  |
+| - Lógica de programación: explorar funciones y listas |
+| - Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags |
+| - Curso de HTML y CSS: Clases, Posicionamiento y Flexbox |
+| - Curso de HTML y CSS: header, footer y variables CSS |
+| - Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos |
 
 <!-- Proyectos -->
 <div>
