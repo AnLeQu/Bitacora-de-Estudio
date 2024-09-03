@@ -50,7 +50,7 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 
 <!-- Proyectos -->
 <div align="center">
-    <h2 id="Proyecto">Projectos<!--<img src="" width="3%"/>--></h2>
+    <h1 id="Proyecto">Projectos<!--<img src="" width="3%"/>--></h1>
 <details>
 <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Curso de
   Lógica de programación: sumérgete en la programación con JavaScript</a></summary>
@@ -168,9 +168,7 @@ Lógica de programación: explorar funciones y listas</a></summary>
 
 <div align="center">
 <details>
-  <div>
-  <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></summary>
-  </div>
+<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></h2></summary>
   <div>
   <table>
     <tbody>
