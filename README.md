@@ -342,16 +342,40 @@ El git clone tal como dice su nombre su función es clonar el repositorio....
   </tbody>
 </table>
 
-# Python <img src="/HTML, CSS y JavaScript/assets/python.png" width="3%"/>
-<!--
+## Python <img src="/HTML, CSS y JavaScript/assets/python.png" width="3%"/>
+
 ```python
 def mi_funcion():
     return "Hola, a todos!"
 ```
--->
+### Fundamentos
+
+<!-- Proyectos -->
+<div>
+    <h1 id="Project-py">Projectos <img src="/HTML, CSS y JavaScript/assets/blueprint.png" width="3%"/></h1>
+</div>
+<div align="center">
+<details>
+<summary><h2><a href="/Python/2-Comprehensions - Funciones - Manero de Errores/11_game.py">Juego: Piedra, papel y tijreas</a></h2></summary>
+  <div>
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="https://platzi.com/p/AnLeQu/curso/4227-python-fundamentos/diploma/detalle/">Certificado</a></td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+</details>
+</div>
+
+
+<!--
 <p align="center">
 <img alt="Logo de python" src="/Otros Proyectos/img/Python.png">
 </p>
+-->
+
 <table>
   <thead>
     <tr>
