@@ -151,6 +151,12 @@ Lógica de programación: explorar funciones y listas</a></td>
         </ul>
       </td>
     </tr>
+  </tbody>
+</table>
+</div>
+<div>
+<table>
+  <tbody>
     <tr>
       <td><a href="   ">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></td>
         <td>
@@ -159,6 +165,12 @@ Lógica de programación: explorar funciones y listas</a></td>
           </ul>
         </td>
       </tr>
+  </tbody>
+</table>
+</div>
+<div>
+<table>
+  <tbody>
     <tr>
       <td><a href="   ">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></td>
         <td>
@@ -167,6 +179,12 @@ Lógica de programación: explorar funciones y listas</a></td>
           </ul>
         </td>
       </tr>
+    </tbody>
+</table>
+</div>
+<div>
+<table>
+  <tbody>
     <tr>
       <td><a href="   ">Curso de HTML y CSS: header, footer y variables CSS</a></td>
         <td>
@@ -175,6 +193,12 @@ Lógica de programación: explorar funciones y listas</a></td>
           </ul>
         </td>
     </tr>
+  </tbody>
+</table>
+</div>
+<div>
+<table>
+  <tbody>
     <tr>
       <td><a href="   ">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></td>
         <td>
@@ -183,11 +207,17 @@ Lógica de programación: explorar funciones y listas</a></td>
           </ul>
         </td>
     </tr>
+  </tbody>
+</table>
+</div>
+<div>
+<table>
+  <tbody>
     <tr>
-      <td><a href="      ">Prácticando lógica de programación: Challenge Encriptador de texto</a></td>
+      <td><a href="https://app.aluracursos.com/user/anlequ/course/challenge-encriptador-texto/certificate">Prácticando lógica de programación: Challenge Encriptador de texto</a></td>
         <td>
          <ul>
-           <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/Proyecto FPP #1.js">Proyecto</a></li> 
+           <li><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Proyecto</a></li> 
         </ul>
       </td>
     </tr>
@@ -195,6 +225,9 @@ Lógica de programación: explorar funciones y listas</a></td>
 <!--El espacio es para llenar con lo que hace falta-->
   </tbody>
 </table>
+</div>
+
+![Encriptador](/HTML,%20CSS%20y%20JavaScript/FPP-ONEG7/Proyecto-Encriptador-Desencriptador/assets/IMG-20240827-WA0016.jpg)
 
 ## Git y Github
 
