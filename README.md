@@ -66,6 +66,8 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
     </tbody>
   </table>
   </div>
+</details>
+</div>
 
 ```javascript
 //Variables
@@ -147,8 +149,6 @@ while (NumeroDeUsuario != NumeroSecreto)
     }
 }
 ```
-</details>
-</div>
 
 <div align="center">
 <details>
@@ -237,40 +237,13 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
       </tr>
    </tbody>
   </table>
-
-```css
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
-
-
-:root {
-    --color-primaria: #000000;
-    --color-secundaria: #F6F6F6;
-    --color-terciaria: #22D4FD;
-    --color-hover: #272727;
-
-    --fuente-krona: 'Krona One', sans-serif;
-    --fuente-montserrat: 'Montserrat', sans-serif;
-}
-
-* {
-    padding: 0;
-    margin:0;
-}
-
-body{
-    box-sizing: border-box;
-    background-color: var(--color-primaria);
-    color: var(--color-secundaria);
-}
-
-.header{
-    padding: 2% 0% 0% 15%;
-}
-```
-
   </div>
 </details>
 </div>
+
+```css
+
+```
 
 <div align="center">
 <details>
