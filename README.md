@@ -157,7 +157,7 @@ Lógica de programación: explorar funciones y listas</a></td>
 </table>
 </div>
 
-![Juego]()
+![Juego](/HTML,%20CSS%20y%20JavaScript/assets/Juego.png)
 
 <div>
 <table>
@@ -183,7 +183,7 @@ Lógica de programación: explorar funciones y listas</a></td>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-clases-posicionamiento-flexbox/certificate">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></td>
         <td>
           <ul>
-            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/4-HTML y CSS - Clases, Posicionamiento y Flexbox/">Código del Proyecto    </a></li>    
           </ul>
         </td>
       </tr>
@@ -200,7 +200,7 @@ Lógica de programación: explorar funciones y listas</a></td>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-header-footer-variables-css/certificate">Curso de HTML y CSS: header, footer y variables CSS</a></td>
         <td>
           <ul>
-            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/5-HTML y CSS - header, footer y variables CSS/">Código del Proyecto    </a></li>    
           </ul>
         </td>
     </tr>
@@ -217,7 +217,7 @@ Lógica de programación: explorar funciones y listas</a></td>
       <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-trabajando-responsividad-publicacion-proyectos/certificate">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></td>
         <td>
           <ul>
-            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/    ">Código del Proyecto    </a></li>    
+            <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/6-HTML y CSS - trabajando con responsividad y publicación de proyectos/">Código del Proyecto    </a></li>    
           </ul>
         </td>
     </tr>
@@ -244,7 +244,7 @@ Lógica de programación: explorar funciones y listas</a></td>
 </table>
 </div>
 
-![Encriptador](/HTML,%20CSS%20y%20JavaScript/FPP-ONEG7/Proyecto-Encriptador-Desencriptador/assets/IMG-20240827-WA0016.jpg)
+![Encriptador](/HTML,%20CSS%20y%20JavaScript/assets/Encriptador.png)
 
 ## Git y Github
 
@@ -273,11 +273,6 @@ El git clone tal como dice su nombre su función es clonar el repositorio....
   <tbody>
     <tr>
       <td><a href="      ">Curso de Git y GitHub: repositorio, commit y versiones</a></td>
-      <td>
-        <ul>
-          <li><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion/Proyecto FPP #1.js">Proyecto</a></li> 
-        </ul>
-      </td>
     </tr>
     <tr>
 -->
