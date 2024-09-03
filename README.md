@@ -168,12 +168,14 @@ Lógica de programación: explorar funciones y listas</a></summary>
 
 <div align="center">
 <details>
-<summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></summary>
+  <div>
+  <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></summary>
+  </div>
   <div>
   <table>
     <tbody>
       <tr>
-        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-desarrollo-estructura-archivos-tags/certificate">Certificado</a></td><
+        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-desarrollo-estructura-archivos-tags/certificate">Certificado</a></td>
       </tr>
    </tbody>
   </table>
