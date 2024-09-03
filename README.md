@@ -51,12 +51,12 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 </div>
 <!-- Proyectos -->
 <div>
-    <h1 id="Project-HTML-CSS-JS">Projectos <img src="/HTML, CSS y JavaScript/assets/blueprint.png" width="3%"/></h1>
+    <h2 id="Project-HTML-CSS-JS">Projectos.html <img src="/HTML, CSS y JavaScript/assets/blueprint.png" width="3%"/></h2>
 </div>
 <div align="center">
 <details>
-<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Curso de
-  Lógica de programación: sumérgete en la programación con JavaScript</a></h2></summary>
+<summary><h3><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Curso de
+  Lógica de programación: sumérgete en la programación con JavaScript</a></h3></summary>
   <div>
   <table>
     <tbody>
@@ -352,7 +352,7 @@ def mi_funcion():
 
 <!-- Proyectos -->
 <div>
-    <h1 id="Project-py">Projectos <img src="/HTML, CSS y JavaScript/assets/blueprint.png" width="3%"/></h1>
+    <h2 id="Project-py">Projectos.py <img src="/HTML, CSS y JavaScript/assets/blueprint.png" width="3%"/></h2>
 </div>
 <div align="center">
 <details>
