@@ -46,7 +46,7 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 
 <!-- Proyectos -->
 <div align="center">
-    <h2 id="Proyecto">Education<!--<img src="" width="3%"/>--></h2>
+    <h2 id="Proyecto">Projectos<!--<img src="" width="3%"/>--></h2>
 <details>
 <summary><a href="https://app.aluracursos.com/certificate/88d50ad9-7900-4335-8b38-f071ba9fedb9?lang">Curso de
   Lógica de programación: sumérgete en la programación con JavaScript</a></summary>
