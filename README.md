@@ -152,8 +152,8 @@ while (NumeroDeUsuario != NumeroSecreto)
 
 <div align="center">
 <details>
-<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones">Curso de
-Lógica de programación: explorar funciones y listas</a></h2></summary>
+<summary><h3><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones">Curso de
+Lógica de programación: explorar funciones y listas</a></h3></summary>
   <div>
   <table>
     <tbody>
@@ -171,7 +171,7 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
 
 <div align="center">
 <details>
-<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></h2></summary>
+<summary><h3><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></h3></summary>
   <div>
   <table>
     <tbody>
@@ -190,7 +190,7 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
 
 <div align="center">
 <details>
-<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/4-HTML y CSS - Clases, Posicionamiento y Flexbox/">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></h2></summary>
+<summary><h3><a href="/HTML, CSS y JavaScript/FPP-ONEG7/4-HTML y CSS - Clases, Posicionamiento y Flexbox/">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></h3></summary>
   <div>
   <table>
     <tbody>
@@ -209,7 +209,7 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
 
 <div align="center">
 <details>
-<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/5-HTML y CSS - header, footer y variables CSS/">Curso de HTML y CSS: header, footer y variables CSS</a></h2></summary>
+<summary><h3><a href="/HTML, CSS y JavaScript/FPP-ONEG7/5-HTML y CSS - header, footer y variables CSS/">Curso de HTML y CSS: header, footer y variables CSS</a></h3></summary>
   <div>
   <table>
     <tbody>
@@ -228,7 +228,7 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
 
 <div align="center">
 <details>
-<summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/6-HTML y CSS - trabajando con responsividad y publicación de proyectos/">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></h2></summary>
+<summary><h3><a href="/HTML, CSS y JavaScript/FPP-ONEG7/6-HTML y CSS - trabajando con responsividad y publicación de proyectos/">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></h3></summary>
   <div>
   <table>
     <tbody>
@@ -247,7 +247,7 @@ Lógica de programación: explorar funciones y listas</a></h2></summary>
 
 <div align="center">
 <details>
-<summary><h2><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Prácticando lógica de programación: Challenge Encriptador de texto</a></h2></summary>
+<summary><h3><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Prácticando lógica de programación: Challenge Encriptador de texto</a></h3></summary>
   <div>
   <table>
     <tbody>
