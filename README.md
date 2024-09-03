@@ -51,7 +51,7 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 </div>
 <!-- Proyectos -->
 <div>
-    <h1 id="Project-HTML-CSS-JS">Projectos<img src="/HTML, CSS y JavaScript/assets/project.png" width="3%"/></h1>
+    <h1 id="Project-HTML-CSS-JS">Projectos <img src="/HTML, CSS y JavaScript/assets/project.png" width="3%"/></h1>
 </div>
 <div align="center">
 <details>
