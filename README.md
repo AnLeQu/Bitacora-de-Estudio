@@ -47,6 +47,8 @@ Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi pr
 <!-- Proyectos -->
 <div>
     <h1 id="Project-HTML-CSS-JS">Projectos<!--<img src="" width="3%"/>--></h1>
+</div>
+<div align="center">
 <details>
 <summary><h2><a href="/HTML, CSS y JavaScript/FPP-ONEG7/1-Logica de programacion">Curso de
   Lógica de programación: sumérgete en la programación con JavaScript</a></h2></summary>
