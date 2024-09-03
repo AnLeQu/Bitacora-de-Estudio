@@ -147,6 +147,7 @@ while (NumeroDeUsuario != NumeroSecreto)
 </details>
 </div>
 
+<div align="center">
 <details>
 <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/2-Explorar funciones">Curso de
 Lógica de programación: explorar funciones y listas</a></summary>
@@ -154,73 +155,82 @@ Lógica de programación: explorar funciones y listas</a></summary>
   <table>
     <tbody>
       <tr>
-        <td><a href="https://app.aluracursos.com/certificate/7a8b22de-9530-400f-a794-e3a5cf418a9f?lang">Certificado</a></td><!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+        <td><a href="https://app.aluracursos.com/certificate/7a8b22de-9530-400f-a794-e3a5cf418a9f?lang">Certificado</a></td>
       </tr>
     </tbody>
   </table>
   </div>
-</details>
 
 ![Juego](/HTML,%20CSS%20y%20JavaScript/assets/Juego.png)
 
+</details>
+</div>
+
+<div align="center">
 <details>
 <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/3-HTML y CSS - Ambiente de desarrollo, estructura de archivos y tags/">Curso de HTML y CSS: ambientes de desarrollo, estructura de archivos y tags</a></summary>
   <div>
   <table>
     <tbody>
       <tr>
-        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-desarrollo-estructura-archivos-tags/certificate">Certificado</a></td><!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-desarrollo-estructura-archivos-tags/certificate">Certificado</a></td><
       </tr>
    </tbody>
   </table>
   </div>
 </details>
+</div>
 
 ```html
 
 ```
 
+<div align="center">
 <details>
 <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/4-HTML y CSS - Clases, Posicionamiento y Flexbox/">Curso de HTML y CSS: Clases, Posicionamiento y Flexbox</a></summary>
   <div>
   <table>
     <tbody>
       <tr>
-        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-clases-posicionamiento-flexbox/certificate">Certificado</a></td><!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-clases-posicionamiento-flexbox/certificate">Certificado</a></td>
       </tr>
    </tbody>
   </table>
   </div>
 </details>
+</div>
 
 ```html
 
 ```
 
+<div align="center">
 <details>
 <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/5-HTML y CSS - header, footer y variables CSS/">Curso de HTML y CSS: header, footer y variables CSS</a></summary>
   <div>
   <table>
     <tbody>
       <tr>
-        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-header-footer-variables-css/certificate">Certificado</a></td><!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-header-footer-variables-css/certificate">Certificado</a></td><!--Agregar aca /cambiar link del certificado-->
       </tr>
    </tbody>
   </table>
   </div>
 </details>
+</div>
 
 ```html
 
 ```
 
+<div align="center">
 <details>
 <summary><a href="/HTML, CSS y JavaScript/FPP-ONEG7/6-HTML y CSS - trabajando con responsividad y publicación de proyectos/">Curso de HTML y CSS: trabajando con responsividad y publicación de proyectos</a></summary>
   <div>
   <table>
     <tbody>
       <tr>
-        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-trabajando-responsividad-publicacion-proyectos/certificate">Certificado</a></td><!--Agregar aca /cambiar link del codigo por el pryecto para que lo prueben-->
+        <td><a href="https://app.aluracursos.com/user/anlequ/course/html-css-trabajando-responsividad-publicacion-proyectos/certificate">Certificado</a></td>
       </tr>
    </tbody>
   </table>
@@ -257,22 +267,27 @@ body{
 
   </div>
 </details>
-
-<details>
-<summary><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Prácticando lógica de programación: Challenge Encriptador de texto</a></summary>
-<div>
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://app.aluracursos.com/user/anlequ/course/challenge-encriptador-texto/certificate">Certificado</a></td>
-    </tr>
-    <tr>
-  </tbody>
-</table>
 </div>
 
+<div align="center">
+<details>
+<summary><a href="https://anlequ.github.io/Challenge-FPP-One-G7/">Prácticando lógica de programación: Challenge Encriptador de texto</a></summary>
+  <div>
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="https://app.aluracursos.com/user/anlequ/course/challenge-encriptador-texto/certificate">Certificado</a></td>
+      </tr>
+      <tr>
+    </tbody>
+  </table>
+  </div>
+
 ![Encriptador](/HTML,%20CSS%20y%20JavaScript/assets/Encriptador.png)
+
 <!--El espacio es para llenar con lo que hace falta-->
+</details>
+</div>
 
 ## Git y Github
 
