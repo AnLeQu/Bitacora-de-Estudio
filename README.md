@@ -165,7 +165,7 @@ Tipos de de datos adicionales en js
 Este codigo realiza la comparación de variables
 
 #### IF (parametro/condición)
-    {
+
 Si la condición planteada es igual o almenos entró entre los límites establecidos es verdadera
 <!-- Agregar ejemplo -->
 
@@ -211,32 +211,125 @@ Los valores deben ser del mismo tipo y tener el mismo valor para que la comparac
 null === undefined;  // false, porque son de tipos diferentes
 ```
 
-///////////////////////////////////////////////////////
-
 #### LESS THAN ( < ) 
-{
-    <	Menor que	A < B	Verdadero si A es menor que B 
-}
-
-///////////////////////////////////////////////////////
+<	Menor que	
+A < B	Verdadero si A es menor que B 
 
 #### MORE THAN ( > )
-{
-    >	Mayor que	A > B	Verdadero si A es mayor que B
-}
+>	Mayor que
+A > B	Verdadero si A es mayor que B
 
-////////////////////////////////////////////////////////
+#### (<= / >=) 
+<=	Menor o igual	
+A <= B	//Verdadero si A es menor o igual a B
 
-<=	Menor o igual	A <= B	Verdadero si A es menor o igual a B
-
-////////////////////////////////////////////////////////
-
->=	Mayor o igual	A >= B	Verdadero si A es mayor o igual a B
-*/
+>=	Mayor o igual
+A >= B	//Verdadero si A es mayor o igual a B
 
 ### Operadores Logicos:
+<details><summary>
+    
+#### Javascript
+
+</summary>
+
+#### AND ( && )
+El operador AND, representado por el símbolo "&&", se utiliza para combinar dos condiciones y evaluar si ambas son verdaderas. Si ambas condiciones son verdaderas, el resultado será... verdadero. De lo contrario, lógicamente será falso. Por ejemplo:
+
+
+```javascript
+  (A > B) && (B == C)	// Verdadero si A es mayor que B 
+  y B es igual a C
+
+  let edad = 25;
+  let tieneLicencia = true;
+
+  // si la edad es mayor de 18 y tiene una licencia...
+  if (edad > 18 && tieneLicencia) 
+  {
+    console.log("Puede conducir!");
+  } 
+  else 
+  {
+    console.log("No puede conducir!");
+  }
+}
+```
+
+#### OR( | | )
+El operador OR, representado por los símbolos "||", se utiliza para verificar si al menos una de las condiciones es verdadera. Si una de las condiciones es verdadera, el resultado será verdadero. Si ambas son falsas, el resultado será falso. Ejemplo:
+
+```javascript
+  (A > B) || (B == C)	//Verdadero si A es mayor que B o B es 
+  igual a C
+
+  let tieneManzana = false; let tieneBanana = true
+
+  // si tiene manzana o tiene banama…
+  if (tieneManzana|| tieneBanana) 
+  {
+    console.log("Tienes frutas!");
+  } 
+  else 
+  {
+    console.log("No tienes frutas.");
+  }
+  
+}
+```
+#### DENIAL OR DIFFERENT ( ! )
+[!] NEGACIÓN
+```javascript
+  	[!(A == B)]	//Verdadero si A NO es igual a B
+```
+[!=] DIFERENTE
+```javascript
+  	[A != B]   //Verdadero si A es diferente a B
+```
 
 </details>
+</details>
+<details><summary>
+    
+#### Python
+
+</summary>
+
+#### AND - TODAS las operaciones deben ser True, para obtener True
+```python
+print('#'*5,' AND ', '#'*5)
+print('AND')
+print('True and True => ', True and True)
+print('True and False => ', True and False)
+print('False and True => ', False and True)
+print('False and False => ', False and False)
+
+print(10 > 5 and 5 < 10)
+print(10 > 5 and 5 > 10)
+
+print("-"*10)
+
+stock = input('Ingrese el número de stock => ')
+stock = int(stock)
+
+print(stock >= 100 and stock <= 1000)
+
+print('')
+print('#'*5,' OR ', '#'*5)
+```
+
+#### OR - Al menos una de las operaciones debe ser True, para obtener True
+```python
+print('OR')
+print('True or True => ', True or True)
+print('True or False => ', True or False)
+print('False or True => ', False or True)
+print('False or False => ', False or False)
+
+role = input('Digita el rol => ')
+
+print(role == 'Admin' or role == 'Seller')
+```
 
 ## HTML, CSS y JavaScript <img src="/HTML, CSS y JavaScript/assets/folder.png" width="3%"/>
 
