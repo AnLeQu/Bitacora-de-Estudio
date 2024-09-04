@@ -88,19 +88,42 @@ También se pueden generar mediante operaciones matemáticas o asignaciones:
     let resultadoSuma = 5 + 3; 
     // Genera el número 8
 ```
+
 #### Strings: 
 Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
 Se escriben entre comillas simples o 
-dobles. Ejemplos: 'Hola', "JavaScript"
+dobles. Ejemplos:
+
+<div align=left weigh=40%>
+    
 ```javascript
+  // strings Javascript 
+'Hola', "JavaScript"
 let mensaje1 = 'Hola a todos';
 let mensaje2 = "JavaScript es divertido";
 
 let my_name = "Andrés"
-my_name = 'Jesús'
+my_name = 'D.'
 console.log('my_name =>', my_name)
 console.log(tipeof(my_name))
 ```
+
+</div>
+<div align=right weigh=40%>
+
+```python
+  # strings python
+"Hola", 'Python' 
+mensaje1 = 'Hola a todos'
+mensaje ="python es divertido"
+my_name = "Andrés"
+my_name = 'D.'
+print('my_name =>', my_name)
+print(type(my_name))
+```
+
+</div>
+
 También se pueden generar concatenando strings o usando métodos de cadenas:
 <!-- poner la versión de Javascript de concatenar letras donde se puede poner ${, y poner esta pero para python qué es de donde la adapte originalmente
     let saludo = 'Hola';
@@ -169,38 +192,48 @@ Tipos de de datos adicionales en js
   Datos Especiales: BIGint
 
 Tipos de datos en Python
-  Integers: Numeros enteros
-  Floats: Numeros de punto flotante (decimales)
-  Strings: Cadenas de texto
-  Booleans: Valores booleanos (True o False)
-Tipos de de datos adicionales
+  
+  
+  
+  
+  
+  
+Tipos de datos adicionales
 
-<summary>
+<details>
+<summary> 
     
-  Datos de texto: str
+  [Datos de texto: str](#strings:)
+  
+</summary>
+</details>
+<details><summary>
+    
+  Datos numéricos: int, float, complex
   
 </summary>
 
-  ```python
-  # strings
-my_name = "Andrés"
-my_name = 'D.'
-print('my_name =>', my_name)
-print(type(my_name))
-```
-  Datos numéricos: int, float, complex
+Integers: Numeros enteros
+      
   ```python
   # int
 my_age = 24
 print('my_age =>', my_age)
 print(type(my_age))
 ```
+
+Floats: Numeros de punto flotante (decimales)
+
+</details>
+<details>
+<summary>
   Datos de secuencia: list, tuple, range
+</summary>
+    
   ```python
 #List comprehension
 #Example 1: list de 10 numeros
 #estructura: [element for element in iterable]
-'''
 numbers = [] 
 for element in range(1,11):
   numbers.append(element *2 )
@@ -211,7 +244,7 @@ print('-'*10)
 #element = iterador lo que hace dentro del for 
 numbers_v2 = [element *2 for element in range(1,11)]
 print(numbers_v2)
-'''
+
 print('-' * 10)
 
 #estructura con condicion: [element for element in iterable if condition]
@@ -231,6 +264,7 @@ numbers_v2 = [i * 2 for i in range(1, 11) if i % 2 == 0]
 print(numbers_v2)
 print('-' * 10)
 ```
+</details>
 <details><summary>
   Datos de mapeo: dict
 </summary>
@@ -289,17 +323,23 @@ new_dict = {name: age for (name, age) in zip(names, ages) }
 print(new_dict)
 ```
 </details>
-
+<details><summary>
   Datos de tipo binario: bytes, bytearray, memoryview
-  
-  Datos booleanos: bool
+</summary>
+</details>
 
-  <details>
-  <summary>
-  Set Types: set, frozenset
-  </summary)
-  
+<details><summary>
+  Datos booleanos: bool
+</summary>
+Valores booleanos (True o False)
+</details>
+
+<details>
+<summary>
+Set Types: set, frozenset
+</summary>
 Sets: Estructura de datos, agrupa elementos que tienen algo en común, se pueden modificar, no tiene un orden y no se pueden duplicar
+    
   ```python
 set_countries = {'cr', 'col', 'mex', 'bol'}
 print(set_countries)
