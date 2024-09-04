@@ -53,13 +53,13 @@ Una variable <!--en JavaScript--> es como una caja etiquetada
 donde puedes guardar información. Puedes pensar en ella 
 como un nombre que utilizas para referirte a un valor 
 específico. Por ejemplo, imagina una caja llamada edad 
-donde guardas el número "10". Más tarde, puedes cambiar el 
+donde guardas el número "24". Más tarde, puedes cambiar el 
 valor guardado en esa caja o usarlo en cálculos.
 Ejemplo:
 ```javascript 
-let edad = 10;
+let edad = 24;
 ```
-Aquí "edad" es la variable que guarda el valor 10
+Aquí "edad" es la variable que guarda el valor 24
 
 Son como nombres que guardan valores y se encuentran en diferentes lenguajes como Python, JavaScript entre otros, en js al inicio de la variable se debe de poner let cómo se ve en el ejemplo
 
@@ -96,8 +96,8 @@ dobles. Ejemplos: 'Hola', "JavaScript"
 let mensaje1 = 'Hola a todos';
 let mensaje2 = "JavaScript es divertido";
 
-let my_name = "Nicolas"
-my_name = 'Santiago'
+let my_name = "Andrés"
+my_name = 'Jesús'
 console.log('my_name =>', my_name)
 console.log(tipeof(my_name))
 ```
@@ -157,9 +157,180 @@ Se asigna explícitamente a una variable para indicar que no tiene ningún valor
 ```javascript
 let y = null;
 ```
+Tipos de datos en Javascript
+  Number:
+  Strings: Cadenas de texto
+  Booleans: Valores booleanos (True o False)
+  Undefined
+  Symbol
+  Null
 Tipos de de datos adicionales en js
   Datos Compuestos: Object
   Datos Especiales: BIGint
+
+Tipos de datos en Python
+  Integers: Numeros enteros
+  Floats: Numeros de punto flotante (decimales)
+  Strings: Cadenas de texto
+  Booleans: Valores booleanos (True o False)
+Tipos de de datos adicionales
+
+<summary>
+    
+  Datos de texto: str
+  
+</summary>
+
+  ```python
+  # strings
+my_name = "Andrés"
+my_name = 'D.'
+print('my_name =>', my_name)
+print(type(my_name))
+```
+  Datos numéricos: int, float, complex
+  ```python
+  # int
+my_age = 24
+print('my_age =>', my_age)
+print(type(my_age))
+```
+  Datos de secuencia: list, tuple, range
+  ```python
+#List comprehension
+#Example 1: list de 10 numeros
+#estructura: [element for element in iterable]
+'''
+numbers = [] 
+for element in range(1,11):
+  numbers.append(element *2 )
+
+print(numbers)
+print('-'*10)
+#Example 2: list de 10 numeros en una sola linea
+#element = iterador lo que hace dentro del for 
+numbers_v2 = [element *2 for element in range(1,11)]
+print(numbers_v2)
+'''
+print('-' * 10)
+
+#estructura con condicion: [element for element in iterable if condition]
+#Forma tradicional:
+print('Forma Tradicional:')
+numbers = []
+for i in range(1, 11):
+  if i % 2 == 0:
+    numbers.append(i * 2)
+
+print(numbers)
+print('-' * 10)
+#Forma de list comprehension: tiene legibilidad
+print('Forma con list comprehension:')
+#[operacion del iterador-primera parte del for-la primera parte del if]
+numbers_v2 = [i * 2 for i in range(1, 11) if i % 2 == 0]
+print(numbers_v2)
+print('-' * 10)
+```
+<details><summary>
+  Datos de mapeo: dict
+</summary>
+
+  ```python
+#Diccionario comprehension:
+#structure: {key:value for var in interable}
+print('Example 1')
+
+print('Forma tradicional:')
+dict = {}
+for i in range(1,5):
+  dict[i] = i*2
+
+print(dict)
+
+print('Forma Comprehension:')
+#versión corta
+dict_v2={i: i*2 for i in range(1,5) } 
+print(dict_v2)
+print('-'*10)
+
+print('Example 2')
+
+print('Forma Tradicional:')
+import random 
+countries = ['col','mex','bol','pe']
+population = {}
+
+for country in countries:
+  population[country] = random.randint(1,100)
+
+print(population)
+
+print('Forma Comprehension:')
+#iterador: # aleatorios random for recorre la lista y llena el diccionario
+population_v2 = {country: random.randint(1,100) for country in countries}
+print(population_v2)
+print('-'*10)
+print('Example 3')
+print('Forma Tradicional:')
+names = ['León','Andrés','Josué']
+ages = [12,56,98]
+#tenemos una lista con tuplas dentro
+{
+  'León':12,
+  'Andrés':56,
+  'Josué':98
+}
+
+#unir una lista con otra, se usa ZIP
+print(list(zip(names, ages)))
+
+print('Forma Comprehension:')
+new_dict = {name: age for (name, age) in zip(names, ages) }
+print(new_dict)
+```
+</details>
+
+  Datos de tipo binario: bytes, bytearray, memoryview
+  
+  Datos booleanos: bool
+
+  <details>
+  <summary>
+  Set Types: set, frozenset
+  </summary)
+  
+Sets: Estructura de datos, agrupa elementos que tienen algo en común, se pueden modificar, no tiene un orden y no se pueden duplicar
+  ```python
+set_countries = {'cr', 'col', 'mex', 'bol'}
+print(set_countries)
+print(type(set_countries))
+
+set_numbers = {1, 2, 45, 6, 7, 7}
+print(set_numbers)
+
+set_types = {'hola', 7, 36.25, False}
+print(set_types)
+
+#crea un set apartir de un string con la funcion set.
+#lo que hace es dividir el texto en 4 elementos
+set_from_string = set('hola')
+print(set_from_string)
+
+#crea un set apartir de una tupla con la funcion set.
+set_from_tuples = set(('abc', 'as', 'def', 'abc'))
+print(set_from_tuples)
+
+#crea un set apartir de una lista con la funcion set.
+numbers = [1, 2, 3, 1, 2, 3, 4]
+set_from_list = set(numbers)
+print(''set_from_list)
+#pasar el conjunto de datos unicos a una lista o tupla
+unique_numbers = list(set_from_list)
+print(unique_numbers)
+unique_numbers = tuple(set_from_list)
+print(unique_numbers)
+```
+</details>
 
 ### Comparadores de variables:
 Este codigo realiza la comparación de variables
@@ -288,7 +459,6 @@ El operador OR, representado por los símbolos "||", se utiliza para verificar s
 ```
 
 </details>
-</details>
 <details><summary>
     
 #### Python
@@ -330,6 +500,8 @@ role = input('Digita el rol => ')
 
 print(role == 'Admin' or role == 'Seller')
 ```
+</details>
+</details>
 
 ## HTML, CSS y JavaScript <img src="/HTML, CSS y JavaScript/assets/folder.png" width="3%"/>
 
