@@ -93,6 +93,8 @@ También se pueden generar mediante operaciones matemáticas o asignaciones:
 Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
 Se escriben entre comillas simples o 
 dobles. Ejemplos:
+|Javascript|
+|----------|
 
 <div align=left weigh=40%>
     
@@ -107,6 +109,8 @@ my_name = 'D.'
 console.log('my_name =>', my_name)
 console.log(tipeof(my_name))
 ```
+|Python|
+|------|
 
 </div>
 <div align=right weigh=40%>
