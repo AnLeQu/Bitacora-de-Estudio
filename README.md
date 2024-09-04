@@ -5,21 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 # 📝 Registro de Progreso en Programación
-
-Este repositorio es un registro de mi aprendizaje en diferentes lenguajes de programación y conceptos relacionados. Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, y aquellos que puedan ofrecer [comentarios o sugerencias](#contacto) para mejorar durante este proceso.
-
-# Contenido
+## Contenido
 - [De qué trata esto](#de-qué-trata-esto)
 - [Programación](#programación)
+  <!--- [Conceptos](#)-->
   - [HTML-CSS-JavaScript](#html-css-y-javascript)
-    - [Conceptos](#)
+    - [Conceptos html](#)
     - [Proyectos HTML-CSS-JS](#Project-HTML-CSS-JS)
   - [Git y Github](#git-y-github)
     - [Comandos](#)
 <!-- [CIM](#cim) y [TAMA](#--) -->
   - [IA - Data Science](#ia-y-data-science)
-  - [Python](#Python)
-      - [Conceptos](#)
+  - [Python](#python)
+      - [Conceptos py](#)
       - [Proyectos py](#Project-py)
   - [Excel](#Excel)
     - [Estadística y Probabilidad](#probabilidad-y-estadistica-en-exel-y-google-sheets)
@@ -29,9 +27,34 @@ Este repositorio es un registro de mi aprendizaje en diferentes lenguajes de pro
   - [Articulos y links](#)
 
 # 🧐 ¿De qué trata esto?
-Cómo mencioné anteriormente este repositorio de GitHub es un registro de mi progreso en el aprendizaje de programación y conceptos relacionados. Aquí podrás encontrar proyectos, tareas y apuntes que reflejan el camino recorrido. Mi objetivo es documentar mi proceso durante los 7 meses del curso FPP-ONEG7 y otros estudios.
+Este repositorio de GitHub es un registro de mi progreso en el aprendizaje en programación y conceptos relacionados. Aquí podrás encontrar proyectos, tareas y apuntes que reflejan el camino recorrido en diferentes lenguajes. Mi objetivo es documentar mi proceso durante los 7 meses del curso FPP-ONEG7 y otros estudios.
+Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este repositorio, y aquellos que puedan ofrecer [comentarios o sugerencias](#contacto) para mejorar durante este proceso.
 
 # Programación <img src="/HTML, CSS y JavaScript/assets/code.png" width="3%"/>
+
+<!--## Conceptos
+
+### Variables
+```javascript
+/*Variables:
+Una variable en JavaScript es como una caja etiquetada 
+donde puedes guardar información. Puedes pensar en ella 
+como un nombre que utilizas para referirte a un valor 
+específico. Por ejemplo, imagina una caja llamada edad 
+donde guardas el número "10". Más tarde, puedes cambiar el 
+valor guardado en esa caja o usarlo en cálculos.
+Ejemplo:*/
+let edad = 10; 
+// Aquí "edad" es la variable que guarda el valor 10
+
+//Son como nombres que guardan valores
+```
+```python
+# Esto es una variable
+my_name = "Andrés"
+```
+##### Se encuentran en diferentes lenguajes como Python y JavaScript --->
+
 
 ## HTML, CSS y JavaScript <img src="/HTML, CSS y JavaScript/assets/folder.png" width="3%"/>
 
