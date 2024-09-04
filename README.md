@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div align="center">
 
 # 📝 Registro de Progreso en Programación
+
+</div>
+
 ## Contenido
 - [De qué trata esto](#de-qué-trata-esto)
 - [Programación](#programación)
@@ -32,29 +36,43 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 
 # Programación <img src="/HTML, CSS y JavaScript/assets/code.png" width="3%"/>
 
-<!--## Conceptos
+<details>
+<summary>
+    
+## Conceptos
 
-### Variables
-```javascript
-/*Variables:
-Una variable en JavaScript es como una caja etiquetada 
+</summary>
+
+
+### Variables:
+```python
+# Esto es una variable
+my_name = "Andrés"
+```
+Una variable <!--en JavaScript--> es como una caja etiquetada 
 donde puedes guardar información. Puedes pensar en ella 
 como un nombre que utilizas para referirte a un valor 
 específico. Por ejemplo, imagina una caja llamada edad 
 donde guardas el número "10". Más tarde, puedes cambiar el 
 valor guardado en esa caja o usarlo en cálculos.
-Ejemplo:*/
+Ejemplo:
 let edad = 10; 
-// Aquí "edad" es la variable que guarda el valor 10
+Aquí "edad" es la variable que guarda el valor 10
 
-//Son como nombres que guardan valores
-```
-```python
-# Esto es una variable
-my_name = "Andrés"
-```
-##### Se encuentran en diferentes lenguajes como Python y JavaScript --->
+Son como nombres que guardan valores
+#### Se encuentran en diferentes lenguajes como Python y JavaScript
 
+### Etiquetas:
+
+### Tipos de datos:
+
+### Comparadores de variables:
+
+### Comparadores de aritmetricos:
+
+### Operadores Logicos:
+
+</details>
 
 ## HTML, CSS y JavaScript <img src="/HTML, CSS y JavaScript/assets/folder.png" width="3%"/>
 
@@ -334,6 +352,10 @@ El git clone tal como dice su nombre su función es clonar el repositorio....
 -->
 
 ## IA y Data Science
+### Recursos
+- Platzi
+
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -370,6 +392,7 @@ El git clone tal como dice su nombre su función es clonar el repositorio....
     </tr>
   </tbody>
 </table>
+</div>
 
 ## Python <img src="/HTML, CSS y JavaScript/assets/python.png" width="3%"/>
 
@@ -398,6 +421,84 @@ def mi_funcion():
 </details>
 </div>
 
+```python
+import random
+
+
+def choose_options():
+  options = ('piedra', 'papel', 'tijera')
+  user_option = input('piedra, papel o tijera => ')
+  user_option = user_option.lower()
+
+  if not user_option in options:
+    print('esa opcion no es valida')
+    # continue
+    return None, None
+
+  computer_option = random.choice(options)
+
+  print('User option =>', user_option)
+  print('Computer option =>', computer_option)
+  return user_option, computer_option
+
+def check_rules(user_option, computer_option, user_wins, computer_wins):
+  if user_option == computer_option:
+    print('Empate!')
+  elif user_option == 'piedra':
+    if computer_option == 'tijera':
+      print('piedra gana a tijera')
+      print('user gano!')
+      user_wins += 1
+    else:
+      print('Papel gana a piedra')
+      print('computer gano!')
+      computer_wins += 1
+  elif user_option == 'papel':
+    if computer_option == 'piedra':
+      print('papel gana a piedra')
+      print('user gano')
+      user_wins += 1
+    else:
+      print('tijera gana a papel')
+      print('computer gano!')
+      computer_wins += 1
+  elif user_option == 'tijera':
+    if computer_option == 'papel':
+      print('tijera gana a papel')
+      print('user gano!')
+      user_wins += 1
+    else:
+      print('piedra gana a tijera')
+      print('computer gano!')
+      computer_wins += 1
+  return user_wins, computer_wins
+
+def run_game():
+  computer_wins = 0
+  user_wins = 0  
+  rounds = 1
+  while True:
+    print('*' * 10)
+    print('ROUND', rounds)
+    print('*' * 10)
+
+    print('computer_wins', computer_wins)
+    print('user_wins', user_wins)
+    rounds += 1
+
+    user_option, computer_option = choose_options()
+    user_wins, computer_wins = check_rules(user_option, computer_option, user_wins, computer_wins)
+
+    if computer_wins == 2:
+      print('El ganador es la computadora')
+      break
+
+    if user_wins == 2:
+      print('El ganador es el usuario')
+      break
+
+run_game()
+```
 
 <!--
 <p align="center">
@@ -405,26 +506,10 @@ def mi_funcion():
 </p>
 -->
 
-<table>
-  <thead>
-    <tr>
-      <th>Cursos</th>
-      <th>Contenidos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://platzi.com/p/AnLeQu/curso/4227-python-fundamentos/diploma/detalle/">Curso de Fundamentos de Python</a></td>
-      <td>
-        <ul>
-          <li><a href="/Python/3-PIP y Entornos Virtuales/main.py">Código del proyecto</a></li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 # Excel <img src="/HTML, CSS y JavaScript/assets/office365.png" width="3%"/>
+### Recursos
+- TAMA
 <!--
 <p align="center">
 <img alt="Logo de Excel" src="">
