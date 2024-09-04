@@ -129,7 +129,7 @@ let esMayor = edad >= 18;
 // Genera true si edad es 18 o más, false si es menos de 18
 ```
 
-Hasta donde es de mi conocimiento actual los siguientes tipos de datos son de Javascript 
+###### Hasta donde es de mi conocimiento actual los siguientes tipos de datos son de Javascript 
 
 #### Undefined: 
 Representa una variable que ha sido 
@@ -157,6 +157,9 @@ Se asigna explícitamente a una variable para indicar que no tiene ningún valor
 ```javascript
 let y = null;
 ```
+Tipos de de datos adicionales en js
+  Datos Compuestos: Object
+  Datos Especiales: BIGint
 
 ### Comparadores de variables:
 
