@@ -56,15 +56,107 @@ específico. Por ejemplo, imagina una caja llamada edad
 donde guardas el número "10". Más tarde, puedes cambiar el 
 valor guardado en esa caja o usarlo en cálculos.
 Ejemplo:
-let edad = 10; 
+```javascript 
+let edad = 10;
+```
 Aquí "edad" es la variable que guarda el valor 10
 
-Son como nombres que guardan valores
-#### Se encuentran en diferentes lenguajes como Python y JavaScript
+Son como nombres que guardan valores y se encuentran en diferentes lenguajes como Python, JavaScript entre otros, en js al inicio de la variable se debe de poner let cómo se ve en el ejemplo
 
 ### Etiquetas:
 
 ### Tipos de datos:
+
+#### Number: 
+Números enteros o de punto flotante (decimales)
+    Se pueden crear de forma literal escribiendo 
+    simplemente el número dentro de una variable:
+    
+```JavaScript
+let numeroEntero = 10;
+let numeroDecimal = 3.14;
+let myage = 12
+console.log('myage =>', my_age)
+console.log(typeof(my_age))
+parseInt() 
+//Para convertir el tipo de dato a un número
+```
+<!-- revisar que esto este bien ya que es una readaptacion de python a Javascript -->
+
+También se pueden generar mediante operaciones matemáticas o asignaciones:
+```javascript
+    let resultadoSuma = 5 + 3; 
+    // Genera el número 8
+```
+#### Strings: 
+Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
+Se escriben entre comillas simples o 
+dobles. Ejemplos: 'Hola', "JavaScript"
+```javascript
+let mensaje1 = 'Hola a todos';
+let mensaje2 = "JavaScript es divertido";
+
+let my_name = "Nicolas"
+my_name = 'Santiago'
+console.log('my_name =>', my_name)
+console.log(tipeof(my_name))
+```
+También se pueden generar concatenando strings o usando métodos de cadenas:
+<!-- poner la versión de Javascript de concatenar letras donde se puede poner ${, y poner esta pero para python qué es de donde la adapte originalmente
+    let saludo = 'Hola';
+    let nombre = 'Juan';
+    let mensaje = saludo + ', ' + nombre + '!';
+    // Genera 'Hola, Juan!'
+  }
+-->
+#### Booleans: 
+Valores booleanos (True o False)
+```javascript
+let esMayorDeEdad = true;
+let aceptaTerminos = false;
+
+let is_single = true
+console.log('is_single =>', is_single)
+console.log(typeof(is_single))
+```
+<!-- revisar esta última parte del código de basado en py -->
+
+Se generan típicamente como resultado de 
+    expresiones lógicas:
+```javascript
+let edad = 18;
+let esMayor = edad >= 18; 
+// Genera true si edad es 18 o más, false si es menos de 18
+```
+
+Hasta donde es de mi conocimiento actual los siguientes tipos de datos son de Javascript 
+
+#### Undefined: 
+Representa una variable que ha sido 
+  declarada pero aún no tiene un valor asignado
+  
+En general, se asigna automáticamente a las variables que se declaran sin valor inicial. Ejemplo: 
+```javascript
+let x;.
+    let x;
+    console.log(x); 
+    // Genera undefined
+```
+#### Symbol: 
+Representa un valor único e inmutable
+Los símbolos se crean usando la función constructora 
+Symbol() o mediante la sintaxis de símbolo literal 
+(Symbol() con una descripción opcional entre paréntesis):
+```javascript
+let simbolo1 = Symbol();
+let simbolo2 = Symbol('descripcion');
+```
+#### Null: 
+Representa la ausencia intencional de algún valor o referencia a un objeto. Ejemplo: let y = null;.
+Se asigna explícitamente a una variable para indicar que no tiene ningún valor o referencia:
+```javascript
+let y = null;
+```
 
 ### Comparadores de variables:
 
