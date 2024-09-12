@@ -818,6 +818,13 @@ El git clone tal como dice su nombre su función es clonar el repositorio....
 # Java
 
 ```java
+public class Ejemplo {
+
+  public void main(String[] args) {
+    System.println("¡Hola a todos!");
+  }
+
+}
 ```
 
 # CIM
