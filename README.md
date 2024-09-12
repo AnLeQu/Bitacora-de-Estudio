@@ -18,6 +18,7 @@
     - [Proyectos HTML-CSS-JS](#Project-HTML-CSS-JS)
   - [Git y Github](#git-y-github)
     - [Comandos](#)
+  - [Java](#) 
 <!-- [CIM](#cim) y [TAMA](#--) -->
   - [IA - Data Science](#ia-y-data-science)
   - [Python](#python)
@@ -155,6 +156,8 @@ let edad = 18;
 let esMayor = edad >= 18; 
 // Genera true si edad es 18 o más, false si es menos de 18
 ```
+|Javascript|
+|----------|
 
 ###### Hasta donde es de mi conocimiento actual los siguientes tipos de datos son de Javascript 
 
@@ -196,28 +199,25 @@ Tipos de de datos adicionales en js
   Datos Especiales: BIGint
 
 Tipos de datos en Python
-  
-  
-  
-  
-  
-  
-Tipos de datos adicionales
 
 <details>
-<summary> 
-    
-  [Datos de texto: str](#strings:)
-  
-</summary>
-</details>
-<details><summary>
-    
-  Datos numéricos: int, float, complex
-  
-</summary>
+<summary>
 
-Integers: Numeros enteros
+|Python|
+|------|
+
+</summary>
+    
+####### Datos de texto: str
+Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
+Se escriben entre comillas simples o 
+dobles. Ejemplos:
+  
+    
+###### Datos numéricos: int, float, complex
+  
+
+#### Integers: Numeros enteros
       
   ```python
   # int
@@ -226,13 +226,10 @@ print('my_age =>', my_age)
 print(type(my_age))
 ```
 
-Floats: Numeros de punto flotante (decimales)
+#### Floats: Numeros de punto flotante (decimales)
 
-</details>
-<details>
-<summary>
-  Datos de secuencia: list, tuple, range
-</summary>
+###### Datos de secuencia: list, tuple, range
+#### List
     
   ```python
 #List comprehension
@@ -268,10 +265,10 @@ numbers_v2 = [i * 2 for i in range(1, 11) if i % 2 == 0]
 print(numbers_v2)
 print('-' * 10)
 ```
-</details>
-<details><summary>
-  Datos de mapeo: dict
-</summary>
+
+###### Datos de mapeo: 
+
+#### Dict
 
   ```python
 #Diccionario comprehension:
@@ -326,22 +323,15 @@ print('Forma Comprehension:')
 new_dict = {name: age for (name, age) in zip(names, ages) }
 print(new_dict)
 ```
-</details>
-<details><summary>
-  Datos de tipo binario: bytes, bytearray, memoryview
-</summary>
-</details>
 
-<details><summary>
+###### Datos de tipo binario: bytes, bytearray, memoryview
+
   Datos booleanos: bool
-</summary>
-Valores booleanos (True o False)
-</details>
 
-<details>
-<summary>
+Valores booleanos (True o False)
+
 Set Types: set, frozenset
-</summary>
+
 Sets: Estructura de datos, agrupa elementos que tienen algo en común, se pueden modificar, no tiene un orden y no se pueden duplicar
     
   ```python
