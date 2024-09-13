@@ -76,7 +76,7 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 <details>
 <summary>
 
-|JavaScrip|
+|JavaScript|
 |---------|
 
 </summary>
@@ -179,16 +179,17 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 
 <\details>
 
-  Tipos de datos en Javascript
-    [Number](#number)
-    [Strings](#strings)
-    [Booleans](#booleans)
-    [Undefined](#undefined)
-    [Symbol](#symbol)
-    [Null](#null)
-  Tipos de de datos adicionales en js
-    Datos Compuestos: Object
-    Datos Especiales: BIGint
+
+Tipos de datos en Javascript
+  [Number](#number)
+  [Strings](#strings)
+  [Booleans](#booleans)
+  [Undefined](#undefined)
+  [Symbol](#symbol)
+  [Null](#null)
+Tipos de de datos adicionales en js
+  Datos Compuestos: Object
+  Datos Especiales: BIGint
 
 <details>
 <summary>
