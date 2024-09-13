@@ -73,83 +73,82 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 
   ### Tipos de datos:
 
-<details>
-<summary>
+  <details>
+  <summary>
 
-|JavaScript|
-|---------|
+  |JavaScript|
+  |---------|
 
-</summary>
+  </summary>
 
   #### Number: 
-    Números enteros o de punto flotante (decimales)
-    Se pueden crear de forma literal escribiendo simplemente el número dentro de una variable:
+  Números enteros o de punto flotante (decimales)
+  Se pueden crear de forma literal escribiendo simplemente el número dentro de una variable:
               
-    ```JavaScript
-      let numeroEntero = 10;
-      let numeroDecimal = 3.14;
-      let myage = 12
-      console.log('myage =>', my_age)
-      console.log(typeof(my_age))
-      parseInt() 
-      //Para convertir el tipo de dato a un número
-    ```
-    <!-- revisar que esto este bien ya que es una readaptacion de python a Javascript -->
+  ```JavaScript
+    let numeroEntero = 10;
+    let numeroDecimal = 3.14;
+    let myage = 12
+    console.log('myage =>', my_age)
+    console.log(typeof(my_age))
+    parseInt() 
+    //Para convertir el tipo de dato a un número
+  ```
+  <!-- revisar que esto este bien ya que es una readaptacion de python a Javascript -->
 
-    También se pueden generar mediante operaciones matemáticas o asignaciones:
+  También se pueden generar mediante operaciones matemáticas o asignaciones:
 
-    ```javascript
-      let resultadoSuma = 5 + 3; 
-      // Genera el número 8
-    ```
+  ```javascript
+    let resultadoSuma = 5 + 3; 
+    // Genera el número 8
+  ```
 
   #### Strings: 
-    Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
-    Se escriben entre comillas simples o dobles. 
-    Ejemplos:
+  Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
+  Se escriben entre comillas simples o dobles. 
+  Ejemplos:
 
-    ```javascript
-      // strings Javascript 
-      'Hola', "JavaScript"
-      let mensaje1 = 'Hola a todos';
-      let mensaje2 = "JavaScript es divertido";
+  ```javascript
+    // strings Javascript 
+    'Hola', "JavaScript"
+    let mensaje1 = 'Hola a todos';
+    let mensaje2 = "JavaScript es divertido";
 
-      let my_name = "Andrés"
-      my_name = 'D.'
-      console.log('my_name =>', my_name)
-      console.log(tipeof(my_name))
-    ```
+    let my_name = "Andrés"
+    my_name = 'D.'
+    console.log('my_name =>', my_name)
+    console.log(tipeof(my_name))
+  ```
 
-    También se pueden generar concatenando strings o usando métodos de cadenas:
-    <!-- poner la versión de Javascript de concatenar letras donde se puede poner ${, y poner esta pero para python qué es de donde la adapte originalmente
-            let saludo = 'Hola';
-            let nombre = 'Juan';
-            let mensaje = saludo + ', ' + nombre + '!';
-            // Genera 'Hola, Juan!'
-          }
-        -->
+  También se pueden generar concatenando strings o usando métodos de cadenas:
+  <!-- poner la versión de Javascript de concatenar letras donde se puede poner ${, y poner esta pero para python qué es de donde la adapte originalmente
+    let saludo = 'Hola';
+    let nombre = 'Juan';
+    let mensaje = saludo + ', ' + nombre + '!';
+    // Genera 'Hola, Juan!'
+    }
+  -->
 
   #### Booleans: 
-        Valores booleanos (True o False)
-        ```javascript
-        let esMayorDeEdad = true;
-        let aceptaTerminos = false;
+  Valores booleanos (True o False)
+  ```javascript
+    let esMayorDeEdad = true;
+    let aceptaTerminos = false;
 
-        let is_single = true
-        console.log('is_single =>', is_single)
-        console.log(typeof(is_single))
-        ```
-        <!-- revisar esta última parte del código de basado en py -->
+    let is_single = true
+    console.log('is_single =>', is_single)
+    console.log(typeof(is_single))
+  ```
+  <!-- revisar esta última parte del código de basado en py -->
 
-        Se generan típicamente como resultado de 
-            expresiones lógicas:
-        ```javascript
-        let edad = 18;
-        let esMayor = edad >= 18; 
-        // Genera true si edad es 18 o más, false si es menos de 18
-        ```
+  Se generan típicamente como resultado de expresiones lógicas:
+  ```javascript
+    let edad = 18;
+    let esMayor = edad >= 18; 
+    // Genera true si edad es 18 o más, false si es menos de 18
+  ```
 
- #### Undefined: 
+  #### Undefined: 
   Representa una variable que ha sido 
   declarada pero aún no tiene un valor asignado
   
@@ -161,7 +160,7 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
     // Genera undefined
   ```
 
- #### Symbol: 
+  #### Symbol: 
   Representa un valor único e inmutable
   Los símbolos se crean usando la función constructora Symbol() o mediante la sintaxis de símbolo literal 
   (Symbol() con una descripción opcional entre paréntesis):
@@ -170,15 +169,14 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
     let simbolo2 = Symbol('descripcion');
   ```
 
- #### Null: 
+  #### Null: 
   Representa la ausencia intencional de algún valor o referencia a un objeto. Ejemplo: let y = null;.
   Se asigna explícitamente a una variable para indicar que no tiene ningún valor o referencia:
   ```javascript
     let y = null;
   ```
 
-<\details>
-
+</details>
 
 Tipos de datos en Javascript
   [Number](#number)
@@ -201,11 +199,11 @@ Tipos de de datos adicionales en js
     
 ###### Datos de texto:
   #### Strings (str)
-Cadenas de texto o secuencia de caracteres que se utilizan para representar texto.
-Se escriben entre comillas simples o dobles. 
-Ejemplos:
+  Cadenas de texto o secuencia de caracteres que se utilizan para representar texto.
+  Se escriben entre comillas simples o dobles. 
+  Ejemplos:
 
- ```python
+  ```python
       # strings python
       "Hola", 'Python' 
       mensaje1 = 'Hola a todos'
@@ -215,7 +213,7 @@ Ejemplos:
       print('my_name =>', my_name)
       print(type(my_name))
   ```
-También se pueden generar concatenando strings o usando métodos de cadenas:
+  También se pueden generar concatenando strings o usando métodos de cadenas:
 
   ```python
       saludo = 'Hola';
@@ -225,7 +223,7 @@ También se pueden generar concatenando strings o usando métodos de cadenas:
   ```
 
 ###### Datos numéricos:
- #### Integers: Numeros enteros (int)
+  #### Integers: Numeros enteros (int)
       
   ```python
     # int
@@ -234,16 +232,16 @@ También se pueden generar concatenando strings o usando métodos de cadenas:
     print(type(my_age))
   ```
 
- #### Floats: Numeros de punto flotante (decimales)
+  #### Floats: Numeros de punto flotante (decimales)
 
 
 
- #### Complex:
+  #### Complex:
 
 
 
 ###### Datos de secuencia:
- #### List
+  #### List
     
   ```python
     #List comprehension
@@ -347,40 +345,39 @@ También se pueden generar concatenando strings o usando métodos de cadenas:
   #### Booleans (bool)
   Valores booleanos (True o False)
 
-  Set Types: set, frozenset
-
+  #### Set Types: set, frozenset
   Sets: Estructura de datos, agrupa elementos que tienen algo en común, se pueden modificar, no tiene un orden y no se pueden duplicar
       
-    ```python
-      set_countries = {'cr', 'col', 'mex', 'bol'}
-      print(set_countries)
-      print(type(set_countries))
+  ```python
+    set_countries = {'cr', 'col', 'mex', 'bol'}
+    print(set_countries)
+    print(type(set_countries))
 
-      set_numbers = {1, 2, 45, 6, 7, 7}
-      print(set_numbers)
+    set_numbers = {1, 2, 45, 6, 7, 7}
+    print(set_numbers)
 
-      set_types = {'hola', 7, 36.25, False}
-      print(set_types)
+    set_types = {'hola', 7, 36.25, False}
+    print(set_types)
 
-      #crea un set apartir de un string con la funcion set.
-      #lo que hace es dividir el texto en 4 elementos
-      set_from_string = set('hola')
-      print(set_from_string)
+    #crea un set apartir de un string con la funcion set.
+    #lo que hace es dividir el texto en 4 elementos
+    set_from_string = set('hola')
+    print(set_from_string)
 
-      #crea un set apartir de una tupla con la funcion set.
-      set_from_tuples = set(('abc', 'as', 'def', 'abc'))
-      print(set_from_tuples)
+    #crea un set apartir de una tupla con la funcion set.
+    set_from_tuples = set(('abc', 'as', 'def', 'abc'))
+    print(set_from_tuples)
 
-      #crea un set apartir de una lista con la funcion set.
-      numbers = [1, 2, 3, 1, 2, 3, 4]
-      set_from_list = set(numbers)
-      print(''set_from_list)
-      #pasar el conjunto de datos unicos a una lista o tupla
-      unique_numbers = list(set_from_list)
-      print(unique_numbers)
-      unique_numbers = tuple(set_from_list)
-      print(unique_numbers)
-    ```
+    #crea un set apartir de una lista con la funcion set.
+    numbers = [1, 2, 3, 1, 2, 3, 4]
+    set_from_list = set(numbers)
+    print(''set_from_list)
+    #pasar el conjunto de datos unicos a una lista o tupla
+    unique_numbers = list(set_from_list)
+    print(unique_numbers)
+    unique_numbers = tuple(set_from_list)
+    print(unique_numbers)
+  ```
 
 </details>
 
@@ -396,67 +393,67 @@ Tipos de datos en Python
 ### Comparadores de variables:
 Este codigo realiza la comparación de variables
 
-#### IF (parametro/condición)
+  #### IF (parametro/condición)
 
-Si la condición planteada es igual o almenos entró entre los límites establecidos es verdadera
-<!-- Agregar ejemplo -->
+  Si la condición planteada es igual o almenos entró entre los límites establecidos es verdadera
+  <!-- Agregar ejemplo -->
 
-#### ELSE IF (nuevo parametro != al anterior)
+  #### ELSE IF (nuevo parametro != al anterior)
 
-Si la condición planteada es falsa y no entró entre los límites establecidos, estas variables se les puede generar nuevas condiciones a las cuales comparar con algun otro argumento.
-<!-- Agregar ejemplo -->
-        
-#### ELSE
+  Si la condición planteada es falsa y no entró entre los límites establecidos, estas variables se les puede generar nuevas condiciones a las cuales comparar con algun otro argumento.
+  <!-- Agregar ejemplo -->
+          
+  #### ELSE
 
-Sino se le da alguna condicion en caso de no entrar entre los parametros anteriores
-        
-#### WHILE (parametro)
+  Sino se le da alguna condicion en caso de no entrar entre los parametros anteriores
+          
+  #### WHILE (parametro)
 
-Mientras alguna condicion establecida se de, el codigo dentro de el seguira funcionando de manera de bucle
-<!-- Agregar ejemplo y explicar como romper el ciclo con break-->
+  Mientras alguna condicion establecida se de, el codigo dentro de el seguira funcionando de manera de bucle
+  <!-- Agregar ejemplo y explicar como romper el ciclo con break-->
 
 ### Comparadores de aritmetricos:
 EQUAL TO ( = ) / ( == ) / ( === ) 
 
-#### Asignación (=):
-El operador de asignación (=) se utiliza para asignar un valor a una variable.
-```javascript
-let x = 10;  // Asigna el valor 10 a la variable x
-```
+  #### Asignación (=):
+  El operador de asignación (=) se utiliza para asignar un valor a una variable.
+  ```javascript
+    let x = 10;  // Asigna el valor 10 a la variable x
+  ```
 
-#### Igualdad débil (==):
-El operador de igualdad débil (==) compara dos valores para verificar si son iguales, pero permite la conversión de tipos (coerción de tipos) durante la comparación.
-Esto significa que si los valores comparados son de diferentes tipos, JavaScript intentará convertirlos a un tipo común antes de compararlos.
+  #### Igualdad débil (==):
+  El operador de igualdad débil (==) compara dos valores para verificar si son iguales, pero permite la conversión de tipos (coerción de tipos) durante la comparación.
+  Esto significa que si los valores comparados son de diferentes tipos, JavaScript intentará convertirlos a un tipo común antes de compararlos.
 
-A == B	// Verdadero si A es igual a B
-5 == '5';  // true, porque el string '5' se convierte al número 5 antes de la comparación
-0 == false;  // true, porque false se convierte al número 0 antes de la comparación
-null == undefined;  // true, porque null y undefined se consideran iguales en == 
+  A == B	// Verdadero si A es igual a B
+  5 == '5';  // true, porque el string '5' se convierte al número 5 antes de la comparación
+  0 == false;  // true, porque false se convierte al número 0 antes de la comparación
+  null == undefined;  // true, porque null y undefined se consideran iguales en == 
 
 
-#### Igualdad estricta (===):
-El operador de igualdad estricta (===) compara dos valores para verificar si son exactamente iguales, sin permitir la conversión de tipos.
-Los valores deben ser del mismo tipo y tener el mismo valor para que la comparación sea verdadera.
-```javascript
-5 === '5';  // false, porque son de tipos diferentes (número y string)
-0 === false;  // false, porque son de tipos diferentes (número y booleano)
-null === undefined;  // false, porque son de tipos diferentes
-```
+  #### Igualdad estricta (===):
+  El operador de igualdad estricta (===) compara dos valores para verificar si son exactamente iguales, sin permitir la conversión de tipos.
+  Los valores deben ser del mismo tipo y tener el mismo valor para que la comparación sea verdadera.
+  ```javascript
+    5 === '5';  // false, porque son de tipos diferentes (número y string)
+    0 === false;  // false, porque son de tipos diferentes (número y booleano)
+    null === undefined;  // false, porque son de tipos diferentes
+  ```
 
-#### LESS THAN ( < ) 
-<	Menor que	
-A < B	Verdadero si A es menor que B 
+  #### LESS THAN ( < ) 
+  <	Menor que	
+  A < B	Verdadero si A es menor que B 
 
-#### MORE THAN ( > )
->	Mayor que
-A > B	Verdadero si A es mayor que B
+  #### MORE THAN ( > )
+  >	Mayor que
+  A > B	Verdadero si A es mayor que B
 
-#### (<= / >=) 
-<=	Menor o igual	
-A <= B	//Verdadero si A es menor o igual a B
+  #### (<= / >=) 
+  <=	Menor o igual	
+  A <= B	//Verdadero si A es menor o igual a B
 
->=	Mayor o igual
-A >= B	//Verdadero si A es mayor o igual a B
+  >=	Mayor o igual
+  A >= B	//Verdadero si A es mayor o igual a B
 
 ### Operadores Logicos:
 <details><summary>
