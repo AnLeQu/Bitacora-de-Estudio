@@ -10,15 +10,15 @@
 </div>
 
 ## Contenido
-- [De qué trata esto](#de-qué-trata-esto)
+- [De qué trata esto](#-de-qué-trata-esto)
 - [Programación](#programación)
-  - [Lógica](#lógica)
-  - [Conceptos](conceptos)
+  - [Lógica](#)
+  - [Conceptos](#conceptos)
     - [variables](#variables)
     - [Tipos de datos](#tipos-de-datos)
-    - [Comparadores de variables](#)
-    - [Comparadores Aritméticos](#) 
-    - [Operadores Lógicos](#operadores-lógicos)
+    - [Comparadores de variables](#comparadores-de-variables)
+    - [Comparadores Aritméticos](#comparadores-de-aritmetricos) 
+    - [Operadores Lógicos](#operadores-logicos)
     - 
   <!--- [Conceptos](#)-->
   - [HTML-CSS-JavaScript](#html-css-y-javascript)
@@ -48,166 +48,147 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 
 <details>
 <summary>
-    
+      
 ## Conceptos
 
 </summary>
 
+  ### Variables:
+  
+    ```python
+      # Esto es una variable
+      my_name = "Andrés"
+    ```
+    Una variable <!--en JavaScript--> es como una caja etiquetada donde puedes guardar información. Puedes pensar en ella como un nombre que utilizas para referirte a un valor específico. Por ejemplo, imagina una caja llamada edad donde guardas el número "24". Más tarde, puedes cambiar el valor guardado en esa caja o usarlo en cálculos.
+    Ejemplo:
 
-### Variables:
-```python
-# Esto es una variable
-my_name = "Andrés"
-```
-Una variable <!--en JavaScript--> es como una caja etiquetada 
-donde puedes guardar información. Puedes pensar en ella 
-como un nombre que utilizas para referirte a un valor 
-específico. Por ejemplo, imagina una caja llamada edad 
-donde guardas el número "24". Más tarde, puedes cambiar el 
-valor guardado en esa caja o usarlo en cálculos.
-Ejemplo:
-```javascript 
-let edad = 24;
-```
-Aquí "edad" es la variable que guarda el valor 24
+    ```javascript 
+      let edad = 24;
+    ```
+    Aquí "edad" es la variable que guarda el valor 24
 
-Son como nombres que guardan valores y se encuentran en diferentes lenguajes como Python, JavaScript entre otros, en js al inicio de la variable se debe de poner let cómo se ve en el ejemplo
+    Son como nombres que guardan valores y se encuentran en diferentes lenguajes como Python, JavaScript entre otros, en js al inicio de la variable se debe de poner let cómo se ve en el ejemplo
 
-### Etiquetas:
+  ### Etiquetas:
 
-### Tipos de datos:
+  ### Tipos de datos:
 
-#### Number: 
-Números enteros o de punto flotante (decimales)
-    Se pueden crear de forma literal escribiendo 
-    simplemente el número dentro de una variable:
-    
-```JavaScript
-let numeroEntero = 10;
-let numeroDecimal = 3.14;
-let myage = 12
-console.log('myage =>', my_age)
-console.log(typeof(my_age))
-parseInt() 
-//Para convertir el tipo de dato a un número
-```
-<!-- revisar que esto este bien ya que es una readaptacion de python a Javascript -->
+<details>
+<summary>
 
-También se pueden generar mediante operaciones matemáticas o asignaciones:
-```javascript
-    let resultadoSuma = 5 + 3; 
-    // Genera el número 8
-```
+|JavaScrip|
+|---------|
 
-#### Strings: 
-Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
-Se escriben entre comillas simples o 
-dobles. Ejemplos:
-|Javascript|
-|----------|
+</summary>
 
-<div align=left weigh=40%>
-    
-```javascript
-  // strings Javascript 
-'Hola', "JavaScript"
-let mensaje1 = 'Hola a todos';
-let mensaje2 = "JavaScript es divertido";
+  #### Number: 
+    Números enteros o de punto flotante (decimales)
+    Se pueden crear de forma literal escribiendo simplemente el número dentro de una variable:
+              
+    ```JavaScript
+      let numeroEntero = 10;
+      let numeroDecimal = 3.14;
+      let myage = 12
+      console.log('myage =>', my_age)
+      console.log(typeof(my_age))
+      parseInt() 
+      //Para convertir el tipo de dato a un número
+    ```
+    <!-- revisar que esto este bien ya que es una readaptacion de python a Javascript -->
 
-let my_name = "Andrés"
-my_name = 'D.'
-console.log('my_name =>', my_name)
-console.log(tipeof(my_name))
-```
-|Python|
-|------|
+    También se pueden generar mediante operaciones matemáticas o asignaciones:
 
-</div>
-<div align=right weigh=40%>
+    ```javascript
+      let resultadoSuma = 5 + 3; 
+      // Genera el número 8
+    ```
 
-```python
-  # strings python
-"Hola", 'Python' 
-mensaje1 = 'Hola a todos'
-mensaje ="python es divertido"
-my_name = "Andrés"
-my_name = 'D.'
-print('my_name =>', my_name)
-print(type(my_name))
-```
+  #### Strings: 
+    Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
+    Se escriben entre comillas simples o dobles. 
+    Ejemplos:
 
-</div>
+    ```javascript
+      // strings Javascript 
+      'Hola', "JavaScript"
+      let mensaje1 = 'Hola a todos';
+      let mensaje2 = "JavaScript es divertido";
 
-También se pueden generar concatenando strings o usando métodos de cadenas:
-<!-- poner la versión de Javascript de concatenar letras donde se puede poner ${, y poner esta pero para python qué es de donde la adapte originalmente
-    let saludo = 'Hola';
-    let nombre = 'Juan';
-    let mensaje = saludo + ', ' + nombre + '!';
-    // Genera 'Hola, Juan!'
-  }
--->
-#### Booleans: 
-Valores booleanos (True o False)
-```javascript
-let esMayorDeEdad = true;
-let aceptaTerminos = false;
+      let my_name = "Andrés"
+      my_name = 'D.'
+      console.log('my_name =>', my_name)
+      console.log(tipeof(my_name))
+    ```
 
-let is_single = true
-console.log('is_single =>', is_single)
-console.log(typeof(is_single))
-```
-<!-- revisar esta última parte del código de basado en py -->
+    También se pueden generar concatenando strings o usando métodos de cadenas:
+    <!-- poner la versión de Javascript de concatenar letras donde se puede poner ${, y poner esta pero para python qué es de donde la adapte originalmente
+            let saludo = 'Hola';
+            let nombre = 'Juan';
+            let mensaje = saludo + ', ' + nombre + '!';
+            // Genera 'Hola, Juan!'
+          }
+        -->
 
-Se generan típicamente como resultado de 
-    expresiones lógicas:
-```javascript
-let edad = 18;
-let esMayor = edad >= 18; 
-// Genera true si edad es 18 o más, false si es menos de 18
-```
-|Javascript|
-|----------|
+  #### Booleans: 
+        Valores booleanos (True o False)
+        ```javascript
+        let esMayorDeEdad = true;
+        let aceptaTerminos = false;
 
-###### Hasta donde es de mi conocimiento actual los siguientes tipos de datos son de Javascript 
+        let is_single = true
+        console.log('is_single =>', is_single)
+        console.log(typeof(is_single))
+        ```
+        <!-- revisar esta última parte del código de basado en py -->
 
-#### Undefined: 
-Representa una variable que ha sido 
+        Se generan típicamente como resultado de 
+            expresiones lógicas:
+        ```javascript
+        let edad = 18;
+        let esMayor = edad >= 18; 
+        // Genera true si edad es 18 o más, false si es menos de 18
+        ```
+
+ #### Undefined: 
+  Representa una variable que ha sido 
   declarada pero aún no tiene un valor asignado
   
-En general, se asigna automáticamente a las variables que se declaran sin valor inicial. Ejemplo: 
-```javascript
-let x;.
+  En general, se asigna automáticamente a las variables que se declaran sin valor inicial. Ejemplo: 
+  ```javascript
+    let x;.
     let x;
     console.log(x); 
     // Genera undefined
-```
-#### Symbol: 
-Representa un valor único e inmutable
-Los símbolos se crean usando la función constructora 
-Symbol() o mediante la sintaxis de símbolo literal 
-(Symbol() con una descripción opcional entre paréntesis):
-```javascript
-let simbolo1 = Symbol();
-let simbolo2 = Symbol('descripcion');
-```
-#### Null: 
-Representa la ausencia intencional de algún valor o referencia a un objeto. Ejemplo: let y = null;.
-Se asigna explícitamente a una variable para indicar que no tiene ningún valor o referencia:
-```javascript
-let y = null;
-```
-Tipos de datos en Javascript
-  Number:
-  Strings: Cadenas de texto
-  Booleans: Valores booleanos (True o False)
-  Undefined
-  Symbol
-  Null
-Tipos de de datos adicionales en js
-  Datos Compuestos: Object
-  Datos Especiales: BIGint
+  ```
 
-Tipos de datos en Python
+ #### Symbol: 
+  Representa un valor único e inmutable
+  Los símbolos se crean usando la función constructora Symbol() o mediante la sintaxis de símbolo literal 
+  (Symbol() con una descripción opcional entre paréntesis):
+  ```javascript
+    let simbolo1 = Symbol();
+    let simbolo2 = Symbol('descripcion');
+  ```
+
+ #### Null: 
+  Representa la ausencia intencional de algún valor o referencia a un objeto. Ejemplo: let y = null;.
+  Se asigna explícitamente a una variable para indicar que no tiene ningún valor o referencia:
+  ```javascript
+    let y = null;
+  ```
+
+<\details>
+
+  Tipos de datos en Javascript
+    [Number](#number)
+    [Strings](#strings)
+    [Booleans](#booleans)
+    [Undefined](#undefined)
+    [Symbol](#symbol)
+    [Null](#null)
+  Tipos de de datos adicionales en js
+    Datos Compuestos: Object
+    Datos Especiales: BIGint
 
 <details>
 <summary>
@@ -217,163 +198,198 @@ Tipos de datos en Python
 
 </summary>
     
-####### Datos de texto: str
-Cadenas de texto o secuencia de caracteres que see utilizan para representar texto.
-Se escriben entre comillas simples o 
-dobles. Ejemplos:
-  
-    
-###### Datos numéricos: int, float, complex
-  
+###### Datos de texto:
+  #### Strings (str)
+Cadenas de texto o secuencia de caracteres que se utilizan para representar texto.
+Se escriben entre comillas simples o dobles. 
+Ejemplos:
 
-#### Integers: Numeros enteros
+ ```python
+      # strings python
+      "Hola", 'Python' 
+      mensaje1 = 'Hola a todos'
+      mensaje ="python es divertido"
+      my_name = "Andrés"
+      my_name = 'D.'
+      print('my_name =>', my_name)
+      print(type(my_name))
+  ```
+También se pueden generar concatenando strings o usando métodos de cadenas:
+
+  ```python
+      saludo = 'Hola';
+      nombre = 'Juan';
+      mensaje = saludo + ', ' + nombre + '!';
+      // Genera 'Hola, Juan!'
+  ```
+
+###### Datos numéricos:
+ #### Integers: Numeros enteros (int)
       
   ```python
-  # int
-my_age = 24
-print('my_age =>', my_age)
-print(type(my_age))
-```
+    # int
+    my_age = 24
+    print('my_age =>', my_age)
+    print(type(my_age))
+  ```
 
-#### Floats: Numeros de punto flotante (decimales)
+ #### Floats: Numeros de punto flotante (decimales)
 
-###### Datos de secuencia: list, tuple, range
-#### List
+
+
+ #### Complex:
+
+
+
+###### Datos de secuencia:
+ #### List
     
   ```python
-#List comprehension
-#Example 1: list de 10 numeros
-#estructura: [element for element in iterable]
-numbers = [] 
-for element in range(1,11):
-  numbers.append(element *2 )
+    #List comprehension
+    #Example 1: list de 10 numeros
+    #estructura: [element for element in iterable]
+    numbers = [] 
+    for element in range(1,11):
+      numbers.append(element *2 )
 
-print(numbers)
-print('-'*10)
-#Example 2: list de 10 numeros en una sola linea
-#element = iterador lo que hace dentro del for 
-numbers_v2 = [element *2 for element in range(1,11)]
-print(numbers_v2)
+    print(numbers)
+    print('-'*10)
+    #Example 2: list de 10 numeros en una sola linea
+    #element = iterador lo que hace dentro del for 
+    numbers_v2 = [element *2 for element in range(1,11)]
+    print(numbers_v2)
 
-print('-' * 10)
+    print('-' * 10)
 
-#estructura con condicion: [element for element in iterable if condition]
-#Forma tradicional:
-print('Forma Tradicional:')
-numbers = []
-for i in range(1, 11):
-  if i % 2 == 0:
-    numbers.append(i * 2)
+    #estructura con condicion: [element for element in iterable if condition]
+    #Forma tradicional:
+    print('Forma Tradicional:')
+    numbers = []
+    for i in range(1, 11):
+      if i % 2 == 0:
+        numbers.append(i * 2)
 
-print(numbers)
-print('-' * 10)
-#Forma de list comprehension: tiene legibilidad
-print('Forma con list comprehension:')
-#[operacion del iterador-primera parte del for-la primera parte del if]
-numbers_v2 = [i * 2 for i in range(1, 11) if i % 2 == 0]
-print(numbers_v2)
-print('-' * 10)
-```
+    print(numbers)
+    print('-' * 10)
+    #Forma de list comprehension: tiene legibilidad
+    print('Forma con list comprehension:')
+    #[operacion del iterador-primera parte del for-la primera parte del if]
+    numbers_v2 = [i * 2 for i in range(1, 11) if i % 2 == 0]
+    print(numbers_v2)
+    print('-' * 10)
+  ```
+  #### Tuple
+
+  #### Range
 
 ###### Datos de mapeo: 
 
-#### Dict
+  #### Dictionary (dict)
 
   ```python
-#Diccionario comprehension:
-#structure: {key:value for var in interable}
-print('Example 1')
+    #Diccionario comprehension:
+    #structure: {key:value for var in interable}
+    print('Example 1')
 
-print('Forma tradicional:')
-dict = {}
-for i in range(1,5):
-  dict[i] = i*2
+    print('Forma tradicional:')
+    dict = {}
+    for i in range(1,5):
+      dict[i] = i*2
 
-print(dict)
+    print(dict)
 
-print('Forma Comprehension:')
-#versión corta
-dict_v2={i: i*2 for i in range(1,5) } 
-print(dict_v2)
-print('-'*10)
+    print('Forma Comprehension:')
+    #versión corta
+    dict_v2={i: i*2 for i in range(1,5) } 
+    print(dict_v2)
+    print('-'*10)
 
-print('Example 2')
+    print('Example 2')
 
-print('Forma Tradicional:')
-import random 
-countries = ['col','mex','bol','pe']
-population = {}
+    print('Forma Tradicional:')
+    import random 
+    countries = ['col','mex','bol','pe']
+    population = {}
 
-for country in countries:
-  population[country] = random.randint(1,100)
+    for country in countries:
+      population[country] = random.randint(1,100)
 
-print(population)
+    print(population)
 
-print('Forma Comprehension:')
-#iterador: # aleatorios random for recorre la lista y llena el diccionario
-population_v2 = {country: random.randint(1,100) for country in countries}
-print(population_v2)
-print('-'*10)
-print('Example 3')
-print('Forma Tradicional:')
-names = ['León','Andrés','Josué']
-ages = [12,56,98]
-#tenemos una lista con tuplas dentro
-{
-  'León':12,
-  'Andrés':56,
-  'Josué':98
-}
+    print('Forma Comprehension:')
+    #iterador: # aleatorios random for recorre la lista y llena el diccionario
+    population_v2 = {country: random.randint(1,100) for country in countries}
+    print(population_v2)
+    print('-'*10)
+    print('Example 3')
+    print('Forma Tradicional:')
+    names = ['León','Andrés','Josué']
+    ages = [12,56,98]
+    #tenemos una lista con tuplas dentro
+    {
+      'León':12,
+      'Andrés':56,
+      'Josué':98
+    }
 
-#unir una lista con otra, se usa ZIP
-print(list(zip(names, ages)))
+    #unir una lista con otra, se usa ZIP
+    print(list(zip(names, ages)))
 
-print('Forma Comprehension:')
-new_dict = {name: age for (name, age) in zip(names, ages) }
-print(new_dict)
-```
+    print('Forma Comprehension:')
+    new_dict = {name: age for (name, age) in zip(names, ages) }
+    print(new_dict)
+  ```
 
 ###### Datos de tipo binario: bytes, bytearray, memoryview
 
-  Datos booleanos: bool
+###### Datos booleanos: 
+  #### Booleans (bool)
 
-Valores booleanos (True o False)
+  Valores booleanos (True o False)
 
-Set Types: set, frozenset
+  Set Types: set, frozenset
 
-Sets: Estructura de datos, agrupa elementos que tienen algo en común, se pueden modificar, no tiene un orden y no se pueden duplicar
-    
-  ```python
-set_countries = {'cr', 'col', 'mex', 'bol'}
-print(set_countries)
-print(type(set_countries))
+  Sets: Estructura de datos, agrupa elementos que tienen algo en común, se pueden modificar, no tiene un orden y no se pueden duplicar
+      
+    ```python
+  set_countries = {'cr', 'col', 'mex', 'bol'}
+  print(set_countries)
+  print(type(set_countries))
 
-set_numbers = {1, 2, 45, 6, 7, 7}
-print(set_numbers)
+  set_numbers = {1, 2, 45, 6, 7, 7}
+  print(set_numbers)
 
-set_types = {'hola', 7, 36.25, False}
-print(set_types)
+  set_types = {'hola', 7, 36.25, False}
+  print(set_types)
 
-#crea un set apartir de un string con la funcion set.
-#lo que hace es dividir el texto en 4 elementos
-set_from_string = set('hola')
-print(set_from_string)
+  #crea un set apartir de un string con la funcion set.
+  #lo que hace es dividir el texto en 4 elementos
+  set_from_string = set('hola')
+  print(set_from_string)
 
-#crea un set apartir de una tupla con la funcion set.
-set_from_tuples = set(('abc', 'as', 'def', 'abc'))
-print(set_from_tuples)
+  #crea un set apartir de una tupla con la funcion set.
+  set_from_tuples = set(('abc', 'as', 'def', 'abc'))
+  print(set_from_tuples)
 
-#crea un set apartir de una lista con la funcion set.
-numbers = [1, 2, 3, 1, 2, 3, 4]
-set_from_list = set(numbers)
-print(''set_from_list)
-#pasar el conjunto de datos unicos a una lista o tupla
-unique_numbers = list(set_from_list)
-print(unique_numbers)
-unique_numbers = tuple(set_from_list)
-print(unique_numbers)
-```
+  #crea un set apartir de una lista con la funcion set.
+  numbers = [1, 2, 3, 1, 2, 3, 4]
+  set_from_list = set(numbers)
+  print(''set_from_list)
+  #pasar el conjunto de datos unicos a una lista o tupla
+  unique_numbers = list(set_from_list)
+  print(unique_numbers)
+  unique_numbers = tuple(set_from_list)
+  print(unique_numbers)
+  ```
 </details>
+
+Tipos de datos en Python
+  Datos de texto: [str](#strings-str)
+  Datos numéricos: [int](#integers-numeros-enteros-int), [float](#floats-numeros-de-punto-flotante-decimales), [complex](#complex)
+  Datos de secuencia: [list](#list), [tuple](#tuple), [range](#range)
+  Datos de mapeo: [dict](#dictionary-dict)
+  Datos de tipo binario: [bytes](), [bytearray](), [memoryview]()
+  Datos booleanos: [bool](#booleans-bool)
 
 ### Comparadores de variables:
 Este codigo realiza la comparación de variables
