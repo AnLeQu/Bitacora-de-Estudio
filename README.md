@@ -178,16 +178,17 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 
 </details>
 
-Tipos de datos en Javascript
+<!-- Tipos de datos en Javascript
 - [Number](#number)
 - [Strings](#strings)
 - [Booleans](#booleans)
 - [Undefined](#undefined)
 - [Symbol](#symbol)
 - [Null](#null)
+
 Tipos de de datos adicionales en js
 - Datos Compuestos: Object
-- Datos Especiales: BIGint
+- Datos Especiales: BIGint -->
 
 <details>
 <summary>
@@ -381,14 +382,14 @@ Tipos de de datos adicionales en js
 
 </details>
 
-Tipos de datos en Python
+<!-- Tipos de datos en Python
 - Datos de texto: [str](#strings-str)
 - Datos numéricos: [int](#integers-numeros-enteros-int), [float](#floats-numeros-de-punto-flotante-decimales), [complex](#complex)
 - Datos de secuencia: [list](#list), [tuple](#tuple), [range](#range)
 - Datos de mapeo: [dict](#dictionary-dict)
 - Datos de tipo binario: [bytes](), [bytearray](), [memoryview]()
 - Datos booleanos: [bool](#booleans-bool)
-- Datos Conjuntos: Set types
+- Datos Conjuntos: Set types -->
 
 ### Comparadores de variables:
 Este codigo realiza la comparación de variables
