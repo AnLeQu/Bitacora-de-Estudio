@@ -12,10 +12,10 @@
 ## Contenido
 - [De qué trata esto](#-de-qué-trata-esto)
 - [Programación](#programación)
-  - [Lógica](#)
   - [Conceptos](#conceptos)
-    - [variables](#variables)
+    - [Variables](#variables)
     - [Tipos de datos](#tipos-de-datos)
+  - [Lógica](#lógica)
     - [Comparadores de variables](#comparadores-de-variables)
     - [Comparadores Aritméticos](#comparadores-de-aritmetricos) 
     - [Operadores Lógicos](#operadores-logicos)
@@ -55,16 +55,16 @@ Agradezco a todos los que se han tomado el tiempo de ver mi perfil y este reposi
 
   ### Variables:
   
-    ```python
-      # Esto es una variable
-      my_name = "Andrés"
-    ```
-    Una variable <!--en JavaScript--> es como una caja etiquetada donde puedes guardar información. Puedes pensar en ella como un nombre que utilizas para referirte a un valor específico. Por ejemplo, imagina una caja llamada edad donde guardas el número "24". Más tarde, puedes cambiar el valor guardado en esa caja o usarlo en cálculos.
-    Ejemplo:
+  ```python
+    # Esto es una variable
+    my_name = "Andrés"
+  ```
+  Una variable <!--en JavaScript--> es como una caja etiquetada donde puedes guardar información. Puedes pensar en ella como un nombre que utilizas para referirte a un valor específico. Por ejemplo, imagina una caja llamada edad donde guardas el número "24". Más tarde, puedes cambiar el valor guardado en esa caja o usarlo en cálculos.
+  Ejemplo:
 
-    ```javascript 
-      let edad = 24;
-    ```
+  ```javascript 
+    let edad = 24;
+  ```
     Aquí "edad" es la variable que guarda el valor 24
 
     Son como nombres que guardan valores y se encuentran en diferentes lenguajes como Python, JavaScript entre otros, en js al inicio de la variable se debe de poner let cómo se ve en el ejemplo
@@ -391,8 +391,27 @@ Tipos de de datos adicionales en js
 - Datos booleanos: [bool](#booleans-bool)
 - Datos Conjuntos: Set types -->
 
+## Lógica
 ### Comparadores de variables:
 Este codigo realiza la comparación de variables
+
+- Condicionales 
+```python
+  if condicion:
+    # bloque de código si la condición es verdadera
+  else if: nueva condicion
+    # bloque de código si la condición anterior es falsa pero la nueva condición es verdadera
+  else:
+    # bloque de código si la condición es falsa
+```
+- Bucles
+```python
+  for elemento in lista:
+      # código a repetir para cada elemento de la lista
+
+  while condicion:
+      # código a repetir mientras la condición sea verdadera
+```
 
   #### IF (parametro/condición)
 
@@ -407,7 +426,9 @@ Este codigo realiza la comparación de variables
   #### ELSE
 
   Sino se le da alguna condicion en caso de no entrar entre los parametros anteriores
-          
+      
+  #### FOR
+
   #### WHILE (parametro)
 
   Mientras alguna condicion establecida se de, el codigo dentro de el seguira funcionando de manera de bucle
@@ -559,6 +580,9 @@ role = input('Digita el rol => ')
 
 print(role == 'Admin' or role == 'Seller')
 ```
+
+#### NOT
+
 </details>
 </details>
 
@@ -842,6 +866,23 @@ public class Ejemplo {
 
 }
 ```
+
+### Recursos
+- FPP-ONEG7
+ Java Orientado a Objetos. 
+ Java y Spring Framework
+ Intelligencia Artificial y Java
+
+<div align="center">
+
+| Curso                                                                  |
+| ---------------------------------------------------------------------- |
+| - Java: Creando tu primera aplicación |
+| - Java: Aplicando la oriención de objetos|
+| - Java: Trabajar con listas y colecciones de datos |
+| - Java: Consumir API, escribir archivos y manejar errores |
+| - Prácticando con Java: Challenge Conversor de monedas |
+| -  |
 
 # CIM
 <!--
