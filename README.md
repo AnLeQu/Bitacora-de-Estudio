@@ -391,6 +391,17 @@ Tipos de de datos adicionales en js
 - Datos booleanos: [bool](#booleans-bool)
 - Datos Conjuntos: Set types -->
 
+<details>
+<summary>
+    
+|Java|
+|------|
+
+</summary>
+
+
+</details>
+
 ## Lógica
 ### Comparadores de variables:
 Este codigo realiza la comparación de variables
