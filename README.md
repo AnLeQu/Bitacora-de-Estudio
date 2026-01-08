@@ -1178,7 +1178,8 @@ run_game()
 ## Contacto
 Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis grupos de mediante el siguiente los siguientes enlaces:
   - [LinkedIn](https://www.linkedin.com/in/anlequ/)  
-  - [Discord](https://discord.gg/PDEy2m3ddz)
+   <!-- - [Discord](https://discord.gg/PDEy2m3ddz)
+   -->
   - Correo: AnLeQu@outlook.com
   <!-- - [Telegram]()
   -->
